@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "5zcGfplEK4uINaYzPK4UFQ==\n", 
+    "height": 366, 
+    "hier_level": 0, 
+    "human_hash": "div_X779_Y173_W905_H366", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "offset-xl-2 offset-lg-1 offset-md-0 col-lg-10 col-md-16", 
+                "style": "color: white; border-color: white;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "offset-xl-2 offset-lg-1 offset-md-0 col-lg-10 col-md-16", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 366, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Equinox is more than a place where high performers come to be their best. \n\nWe\u2019ve transformed every aspect of our membership to encompass integrated digital and in-club offerings to keep you at your best\u2014all the time, any time. \n\nDiscover the offerings below, plus The Equinox Standard for health, safety, and cleanliness.\n\nAre you a former member at Equinox? Click below to learn about the benefits you may be eligible to receive upon returning.\n\nFormer Member Benefits", 
+            "type": "", 
+            "value": "", 
+            "width": 905, 
+            "x": 779, 
+            "xPercent": 40.572916666666664, 
+            "y": 173, 
+            "yPercent": 2.538288701393984
+        }, 
+        "location": {
+            "x": 779, 
+            "y": 173
+        }, 
+        "size": {
+            "height": 366, 
+            "width": 905
+        }, 
+        "tag_name": "div", 
+        "text": "Equinox is more than a place where high performers come to be their best. \n\nWe\u2019ve transformed every aspect of our membership to encompass integrated digital and in-club offerings to keep you at your best\u2014all the time, any time. \n\nDiscover the offerings below, plus The Equinox Standard for health, safety, and cleanliness.\n\nAre you a former member at Equinox? Click below to learn about the benefits you may be eligible to receive upon returning.\n\nFormer Member Benefits"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Equinox is more than a place where high performers come to be their best. \n\nWe\u2019ve transformed every aspect of our membership to encompass integrated digital and in-club offerings to keep you at your best\u2014all the time, any time. \n\nDiscover the offerings below, plus The Equinox Standard for health, safety, and cleanliness.\n\nAre you a former member at Equinox? Click below to learn about the benefits you may be eligible to receive upon returning.\n\nFormer Member Benefits", 
+    "transformed": true, 
+    "width": 905, 
+    "x": 779, 
+    "y": 173
+}

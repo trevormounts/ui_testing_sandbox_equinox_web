@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "euJuG/8zhst1qy5/2tfn9g==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "span_X1514_Y9_W67_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "link-inner", 
+                "data-section": "true"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "link-inner", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Studios", 
+            "type": "", 
+            "value": "", 
+            "width": 67, 
+            "x": 1514, 
+            "xPercent": 78.83219401041667, 
+            "y": 9, 
+            "yPercent": 0.13206162876008803
+        }, 
+        "location": {
+            "x": 1514, 
+            "y": 9
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 67
+        }, 
+        "tag_name": "span", 
+        "text": "Studios"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Studios", 
+    "transformed": true, 
+    "width": 67, 
+    "x": 1514, 
+    "y": 9
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "wl2nKZVYpDXwaHSX6EVCWg==\n", 
+    "height": 379, 
+    "hier_level": 0, 
+    "human_hash": "div_X0_Y133_W1920_H379", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "hero-contents___25Fs8"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "hero-contents___25Fs8", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 379, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "WELCOME\nFORWARD\nWELCOME\nFORWARD\nJoin Equinox today for your exclusive July offer.CLAIM OFFER", 
+            "type": "", 
+            "value": "", 
+            "width": 1920, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 133, 
+            "yPercent": 1.9515774027879678
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 133
+        }, 
+        "size": {
+            "height": 379, 
+            "width": 1920
+        }, 
+        "tag_name": "div", 
+        "text": "WELCOME\nFORWARD\nWELCOME\nFORWARD\nJoin Equinox today for your exclusive July offer.CLAIM OFFER"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "WELCOME\nFORWARD\nWELCOME\nFORWARD\nJoin Equinox today for your exclusive July offer.CLAIM OFFER", 
+    "transformed": true, 
+    "width": 1920, 
+    "x": 0, 
+    "y": 133
+}

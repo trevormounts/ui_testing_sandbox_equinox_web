@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "RwAPu1EKo+gNdTV5tvUL2Q==\n", 
+    "height": 172, 
+    "hier_level": 0, 
+    "human_hash": "div_X610_Y406_W338_H172", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 172, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Our BrandsSoulCycleBlinkPrecision RunPure Yoga", 
+            "type": "", 
+            "value": "", 
+            "width": 338, 
+            "x": 610, 
+            "xPercent": 31.770833333333332, 
+            "y": 406, 
+            "yPercent": 4.683898109727985
+        }, 
+        "location": {
+            "x": 610, 
+            "y": 406
+        }, 
+        "size": {
+            "height": 172, 
+            "width": 338
+        }, 
+        "tag_name": "div", 
+        "text": "Our BrandsSoulCycleBlinkPrecision RunPure Yoga"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Our BrandsSoulCycleBlinkPrecision RunPure Yoga", 
+    "transformed": true, 
+    "width": 338, 
+    "x": 610, 
+    "y": 406
+}

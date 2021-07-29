@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "AWkuDQ7a5IE6kgnaEjbnaw==\n", 
+    "height": 135, 
+    "hier_level": 0, 
+    "human_hash": "div_X236_Y83_W1448_H135", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "d-none d-lg-block explore-a-club___13TO5 invisible___16umZ"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "d-none d-lg-block explore-a-club___13TO5 invisible___16umZ", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 135, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Explore a club near youExplore More Clubs", 
+            "type": "", 
+            "value": "", 
+            "width": 1448, 
+            "x": 236, 
+            "xPercent": 12.291666666666666, 
+            "y": 83, 
+            "yPercent": 0.9609843245735362
+        }, 
+        "location": {
+            "x": 236, 
+            "y": 83
+        }, 
+        "size": {
+            "height": 135, 
+            "width": 1448
+        }, 
+        "tag_name": "div", 
+        "text": "Explore a club near youExplore More Clubs"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Explore a club near youExplore More Clubs", 
+    "transformed": true, 
+    "width": 1448, 
+    "x": 236, 
+    "y": 83
+}

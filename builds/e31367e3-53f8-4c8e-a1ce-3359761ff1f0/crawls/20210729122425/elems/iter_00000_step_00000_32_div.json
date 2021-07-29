@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "0AVMERgpi+HdE7MeoSUmow==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "div_X236_Y0_W1448_H38", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "container"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "container", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Discover our other brandsHigh Performance LivingLocationsStudiosHotelsEquinox Fitness ClubA temple of well-being featuring world-class personal trainers, Group Fitness classes, spas and more.Equinox Sports ClubMore than just an hour of the day, it\u2019s a second space. A magnetic destination for members to pursue their goals and build a community.E by EquinoxUnequaled. Unexpected. Utterly personal. A sanctuary of bespoke service and our finest amenities to unlock your highest performance. Precision RunSurpass all limits with expert-driven classes, innovative spaces, and a mission to redefine treadmill training.Equinox HotelsFueled by ambition. Powered by possibilities. Experience luxury for those who want it all.", 
+            "type": "", 
+            "value": "", 
+            "width": 1448, 
+            "x": 236, 
+            "xPercent": 12.291666666666666, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 236, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 1448
+        }, 
+        "tag_name": "div", 
+        "text": "Discover our other brandsHigh Performance LivingLocationsStudiosHotelsEquinox Fitness ClubA temple of well-being featuring world-class personal trainers, Group Fitness classes, spas and more.Equinox Sports ClubMore than just an hour of the day, it\u2019s a second space. A magnetic destination for members to pursue their goals and build a community.E by EquinoxUnequaled. Unexpected. Utterly personal. A sanctuary of bespoke service and our finest amenities to unlock your highest performance. Precision RunSurpass all limits with expert-driven classes, innovative spaces, and a mission to redefine treadmill training.Equinox HotelsFueled by ambition. Powered by possibilities. Experience luxury for those who want it all."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Discover our other brandsHigh Performance LivingLocationsStudiosHotelsEquinox Fitness ClubA temple of well-being featuring world-class personal trainers, Group Fitness classes, spas and more.Equinox Sports ClubMore than just an hour of the day, it\u2019s a second space. A magnetic destination for members to pursue their goals and build a community.E by EquinoxUnequaled. Unexpected. Utterly personal. A sanctuary of bespoke service and our finest amenities to unlock your highest performance. Precision RunSurpass all limits with expert-driven classes, innovative spaces, and a mission to redefine treadmill training.Equinox HotelsFueled by ambition. Powered by possibilities. Experience luxury for those who want it all.", 
+    "transformed": true, 
+    "width": 1448, 
+    "x": 236, 
+    "y": 0
+}

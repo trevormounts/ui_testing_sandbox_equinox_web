@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "67MboA+lKg6p4abtatgOiQ==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "a_X1079_Y679_W52_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.equinox.com/clubs"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 20, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "clubs", 
+            "type": "", 
+            "value": "", 
+            "width": 52, 
+            "x": 1079, 
+            "xPercent": 56.200358072916664, 
+            "y": 679, 
+            "yPercent": 39.707602339181285
+        }, 
+        "location": {
+            "x": 1079, 
+            "y": 679
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 52
+        }, 
+        "tag_name": "a", 
+        "text": "clubs"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "clubs", 
+    "transformed": true, 
+    "width": 52, 
+    "x": 1079, 
+    "y": 679
+}

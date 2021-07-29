@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "kcFnstnu7du5iKl+Db8xfg==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "a_X248_Y430_W98_H37", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-link active", 
+                "href": "https://careers.equinox.com?icmp=bottomnav-careers", 
+                "role": "listitem", 
+                "title": "Careers"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "nav-link active", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Careers", 
+            "type": "", 
+            "value": "", 
+            "width": 98, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 430, 
+            "yPercent": 4.960523282618718
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 430
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 98
+        }, 
+        "tag_name": "a", 
+        "text": "Careers"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Careers", 
+    "transformed": true, 
+    "width": 98, 
+    "x": 248, 
+    "y": 430
+}

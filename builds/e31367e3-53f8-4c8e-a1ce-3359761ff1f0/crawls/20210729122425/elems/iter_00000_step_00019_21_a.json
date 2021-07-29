@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "xLRfaHKY/6LtN4iAUYe6aw==\n", 
+    "height": 29, 
+    "hier_level": 0, 
+    "human_hash": "a_X1429_Y53_W32_H29", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": " loginLink___2WtV1", 
+                "href": "/auth/equinox_oauth2/redirect?returnUrl=%2Fclubs%3Ficmp%3Dtopnav-clubs"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": " loginLink___2WtV1", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 29, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Login", 
+            "type": "", 
+            "value": "", 
+            "width": 32, 
+            "x": 1429, 
+            "xPercent": 74.43033854166666, 
+            "y": 53, 
+            "yPercent": 1.0007552870090635
+        }, 
+        "location": {
+            "x": 1429, 
+            "y": 53
+        }, 
+        "size": {
+            "height": 29, 
+            "width": 32
+        }, 
+        "tag_name": "a", 
+        "text": "Login"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Login", 
+    "transformed": true, 
+    "width": 32, 
+    "x": 1429, 
+    "y": 53
+}

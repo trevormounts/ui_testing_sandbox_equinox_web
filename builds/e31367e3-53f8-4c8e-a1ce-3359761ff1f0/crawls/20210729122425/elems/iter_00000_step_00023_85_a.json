@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "kb361QlpxuuZ2hIonFBoCg==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "a_X248_Y578_W126_H37", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-link active", 
+                "href": "https://www.equinox.com/ourcorevalues?icmp=bottomnav-corevalues", 
+                "role": "listitem", 
+                "title": "Core Values"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "nav-link active", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Core Values", 
+            "type": "", 
+            "value": "", 
+            "width": 126, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 578, 
+            "yPercent": 6.666378515444905
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 578
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 126
+        }, 
+        "tag_name": "a", 
+        "text": "Core Values"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Core Values", 
+    "transformed": true, 
+    "width": 126, 
+    "x": 248, 
+    "y": 578
+}

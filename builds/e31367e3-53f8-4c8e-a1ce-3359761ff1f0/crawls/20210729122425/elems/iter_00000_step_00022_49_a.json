@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "7ndiS6tMmQzWhacqOX5Efw==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "a_X248_Y586_W206_H40", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "button___3NLip whiteBorder___APK8B", 
+                "href": "https://www.equinox.com/classschedule", 
+                "title": "Search In-Club Classes"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "button___3NLip whiteBorder___APK8B", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Search In-Club Classes", 
+            "type": "", 
+            "value": "", 
+            "width": 206, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 586, 
+            "yPercent": 6.749942369755647
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 586
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 206
+        }, 
+        "tag_name": "a", 
+        "text": "Search In-Club Classes"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Search In-Club Classes", 
+    "transformed": true, 
+    "width": 206, 
+    "x": 248, 
+    "y": 586
+}

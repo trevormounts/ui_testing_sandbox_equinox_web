@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "vI9xR6dDuUxfnFhurtF03A==\n", 
+    "height": 1, 
+    "hier_level": 0, 
+    "human_hash": "img_X0_Y826_W1_H1", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "height": "1", 
+                "src": "https://meta.resetdigital.co/smart?px=1000129&k=group fitness classes, fitness classes, barre classes, group pilates classes, hiit, &t=Group Fitness at Equinox&d=We offer signature fitness classes including HIIT, Barre, Mat Pilates, Boxing and Martial Arts, Zumba, Treadmill Running, Pool workouts and more &email=&purl=https%3A%2F%2Fwww.equinox.com%2Fgroupfitness%3Ficmp%3Dtopnav-classes", 
+                "width": "1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 2, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 1, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 1, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 826, 
+            "yPercent": 9.51691447671738
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 826
+        }, 
+        "size": {
+            "height": 1, 
+            "width": 1
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 1, 
+    "x": 0, 
+    "y": 826
+}

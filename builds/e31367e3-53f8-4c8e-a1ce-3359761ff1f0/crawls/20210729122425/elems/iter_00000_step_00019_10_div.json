@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "69gCCJgDqSZpEzV1Bmu8mA==\n", 
+    "height": 147, 
+    "hier_level": 0, 
+    "human_hash": "div_X272_Y527_W405_H147", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "address___398xS d-flex flex-column"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "address___398xS d-flex flex-column", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 147, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "From the heart of downtown to fashionable Back Bay, our Boston clubs are designed to inspire. Each location delivers the essential elements of well-being, including innovative classes, exceptional trainers, and now the Precision Running Lab, our breakthrough standalone running studio, only at Equinox Chestnut Hill.", 
+            "type": "", 
+            "value": "", 
+            "width": 405, 
+            "x": 272, 
+            "xPercent": 14.166666666666666, 
+            "y": 527, 
+            "yPercent": 9.950906344410877
+        }, 
+        "location": {
+            "x": 272, 
+            "y": 527
+        }, 
+        "size": {
+            "height": 147, 
+            "width": 405
+        }, 
+        "tag_name": "div", 
+        "text": "From the heart of downtown to fashionable Back Bay, our Boston clubs are designed to inspire. Each location delivers the essential elements of well-being, including innovative classes, exceptional trainers, and now the Precision Running Lab, our breakthrough standalone running studio, only at Equinox Chestnut Hill."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "From the heart of downtown to fashionable Back Bay, our Boston clubs are designed to inspire. Each location delivers the essential elements of well-being, including innovative classes, exceptional trainers, and now the Precision Running Lab, our breakthrough standalone running studio, only at Equinox Chestnut Hill.", 
+    "transformed": true, 
+    "width": 405, 
+    "x": 272, 
+    "y": 527
+}

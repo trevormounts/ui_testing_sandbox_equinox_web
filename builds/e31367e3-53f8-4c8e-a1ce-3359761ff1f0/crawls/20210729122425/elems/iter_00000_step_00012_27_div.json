@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "tW6bUpoWZuje9wbZDzAvig==\n", 
+    "height": 448, 
+    "hier_level": 0, 
+    "human_hash": "div_X236_Y133_W724_H448", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header___3tgVf col-md-8", 
+                "style": "text-align:left"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "header___3tgVf col-md-8", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 448, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "PERSONAL\nTRAINING\nAT EQUINOXPERSONAL\nTRAINING\nAT EQUINOX", 
+            "type": "", 
+            "value": "", 
+            "width": 724, 
+            "x": 236, 
+            "xPercent": 12.291666666666666, 
+            "y": 133, 
+            "yPercent": 1.6097797143548778
+        }, 
+        "location": {
+            "x": 236, 
+            "y": 133
+        }, 
+        "size": {
+            "height": 448, 
+            "width": 724
+        }, 
+        "tag_name": "div", 
+        "text": "PERSONAL\nTRAINING\nAT EQUINOXPERSONAL\nTRAINING\nAT EQUINOX"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "PERSONAL\nTRAINING\nAT EQUINOXPERSONAL\nTRAINING\nAT EQUINOX", 
+    "transformed": true, 
+    "width": 724, 
+    "x": 236, 
+    "y": 133
+}

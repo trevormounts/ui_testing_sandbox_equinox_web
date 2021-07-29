@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Su7MZq0Wls4VxsLvSz+H0A==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "a_X610_Y467_W78_H37", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-link active", 
+                "href": "https://www.blinkfitness.com/", 
+                "role": "listitem", 
+                "title": "Blink"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "nav-link active", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Blink", 
+            "type": "", 
+            "value": "", 
+            "width": 78, 
+            "x": 610, 
+            "xPercent": 31.770833333333332, 
+            "y": 467, 
+            "yPercent": 5.386987090825265
+        }, 
+        "location": {
+            "x": 610, 
+            "y": 467
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 78
+        }, 
+        "tag_name": "a", 
+        "text": "Blink"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Blink", 
+    "transformed": true, 
+    "width": 78, 
+    "x": 610, 
+    "y": 467
+}

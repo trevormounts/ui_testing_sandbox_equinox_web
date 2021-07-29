@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "6qbCsvLXOI/ja91aUkRXrg==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "div_X236_Y49_W1448_H36", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "container inner___8fwHE"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "container inner___8fwHE", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "ClubsClassesPersonal TrainingPilatesShopSpaMember BenefitsEquinox AlumniLoginJoin Online Claim Offer", 
+            "type": "", 
+            "value": "", 
+            "width": 1448, 
+            "x": 236, 
+            "xPercent": 12.291666666666666, 
+            "y": 49, 
+            "yPercent": 0.5035821825355623
+        }, 
+        "location": {
+            "x": 236, 
+            "y": 49
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 1448
+        }, 
+        "tag_name": "div", 
+        "text": "ClubsClassesPersonal TrainingPilatesShopSpaMember BenefitsEquinox AlumniLoginJoin Online Claim Offer"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "ClubsClassesPersonal TrainingPilatesShopSpaMember BenefitsEquinox AlumniLoginJoin Online Claim Offer", 
+    "transformed": true, 
+    "width": 1448, 
+    "x": 236, 
+    "y": 49
+}

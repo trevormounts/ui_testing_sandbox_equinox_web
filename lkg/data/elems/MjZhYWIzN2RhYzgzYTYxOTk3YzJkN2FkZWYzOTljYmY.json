@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "vZeTQG/HKAPXx1zJPMk5OQ==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "a_X610_Y504_W137_H37", 
+    "human_readable": "a_610_504_137_37_a_ffffffffffffffffffff999fc00780078007c007ffffffffffffffffffffffff_6644d054b1ad6c191e84dcba5ca8dec1", 
+    "image_path": "MjZhYWIzN2RhYzgzYTYxOTk3YzJkN2FkZWYzOTljYmY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-link active", 
+                "href": "https://www.precisionrun.com/", 
+                "role": "listitem", 
+                "title": "Precision Run"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "nav-link active", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Precision Run", 
+            "type": "", 
+            "value": "", 
+            "width": 137, 
+            "x": 610, 
+            "xPercent": 31.770833333333332, 
+            "y": 504, 
+            "yPercent": 5.813450899031812
+        }, 
+        "location": {
+            "x": 610, 
+            "y": 504
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 137
+        }, 
+        "tag_name": "a", 
+        "text": "Precision Run"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "59ce5b745dc608bfbf3e0d28a1ef5a0e", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Precision Run", 
+    "transformed": true, 
+    "width": 137, 
+    "x": 610, 
+    "y": 504
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "OQg1opVPSR3Oz0Jj4IjDgg==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "a_X1490_Y776_W81_H37", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-link active", 
+                "href": "https://www.equinox.com/faq", 
+                "role": "listitem", 
+                "title": "FAQs"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "nav-link active", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "FAQs", 
+            "type": "", 
+            "value": "", 
+            "width": 81, 
+            "x": 1490, 
+            "xPercent": 77.6025390625, 
+            "y": 776, 
+            "yPercent": 8.948536191793453
+        }, 
+        "location": {
+            "x": 1490, 
+            "y": 776
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 81
+        }, 
+        "tag_name": "a", 
+        "text": "FAQs"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "FAQs", 
+    "transformed": true, 
+    "width": 81, 
+    "x": 1490, 
+    "y": 776
+}

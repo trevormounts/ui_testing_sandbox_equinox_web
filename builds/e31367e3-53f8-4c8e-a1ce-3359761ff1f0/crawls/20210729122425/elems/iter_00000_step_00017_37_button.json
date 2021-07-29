@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "AUVWJZFhaItDKl1J8gbI6g==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "button_X1244_Y734_W429_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "moduleEditorialGrid2Column__internalCtaBtn___3nhtQ", 
+                "style": "color: white;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "moduleEditorialGrid2Column__internalCtaBtn___3nhtQ", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Explore Classes", 
+            "type": "", 
+            "value": "", 
+            "width": 429, 
+            "x": 1244, 
+            "xPercent": 64.765625, 
+            "y": 734, 
+            "yPercent": 10.768754585473221
+        }, 
+        "location": {
+            "x": 1244, 
+            "y": 734
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 429
+        }, 
+        "tag_name": "button", 
+        "text": "Explore Classes"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Explore Classes", 
+    "transformed": true, 
+    "width": 429, 
+    "x": 1244, 
+    "y": 734
+}

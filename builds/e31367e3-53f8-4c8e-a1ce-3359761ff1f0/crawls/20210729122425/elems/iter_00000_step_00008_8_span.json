@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "39Ecr4NdCsWIw/thGsawBw==\n", 
+    "height": 211, 
+    "hier_level": 0, 
+    "human_hash": "span_X236_Y263_W260_H211", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "formatted-text___SkD_K"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "formatted-text___SkD_K", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Titling Gothic FB Compressed Medium\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 96, 
+            "height": 211, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "STUDIO\nPILATES", 
+            "type": "", 
+            "value": "", 
+            "width": 260, 
+            "x": 236, 
+            "xPercent": 12.291666666666666, 
+            "y": 263, 
+            "yPercent": 2.730278527671062
+        }, 
+        "location": {
+            "x": 236, 
+            "y": 263
+        }, 
+        "size": {
+            "height": 211, 
+            "width": 260
+        }, 
+        "tag_name": "span", 
+        "text": "STUDIO\nPILATES"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "STUDIO\nPILATES", 
+    "transformed": true, 
+    "width": 260, 
+    "x": 236, 
+    "y": 263
+}

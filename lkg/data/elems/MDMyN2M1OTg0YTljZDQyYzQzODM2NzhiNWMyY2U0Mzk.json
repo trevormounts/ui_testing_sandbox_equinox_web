@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "0usvXrqRLQXCv62LRp2TFA==\n", 
+    "height": 29, 
+    "hier_level": 0, 
+    "human_hash": "a_X1099_Y99_W132_H29", 
+    "human_readable": "a_1099_99_132_29_a_ffffffffffffffff9001901df081f08180958001893180018001ffffffffffff_a26f4255500b119156d6104eb2389c4e", 
+    "image_path": "MDMyN2M1OTg0YTljZDQyYzQzODM2NzhiNWMyY2U0Mzk.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "notificationCopy___FTZp9 notificationCopyLink___38wFb", 
+                "href": "#", 
+                "role": "button", 
+                "style": "color:#000000"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "notificationCopy___FTZp9 notificationCopyLink___38wFb", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 18, 
+            "height": 29, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "CLAIM OFFER", 
+            "type": "", 
+            "value": "", 
+            "width": 132, 
+            "x": 1099, 
+            "xPercent": 57.237141927083336, 
+            "y": 99, 
+            "yPercent": 1.4526779163609684
+        }, 
+        "location": {
+            "x": 1099, 
+            "y": 99
+        }, 
+        "size": {
+            "height": 29, 
+            "width": 132
+        }, 
+        "tag_name": "a", 
+        "text": "CLAIM OFFER"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "285c2a879cbf7e46d3b8ec034a051a04", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "CLAIM OFFER", 
+    "transformed": true, 
+    "width": 132, 
+    "x": 1099, 
+    "y": 99
+}

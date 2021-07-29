@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "/Ba2LyG31WlMlDxPCMAWhA==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "div_X1572_Y49_W100_H36", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "links___1zqmx", 
+                "title": "Claim Offer"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "links___1zqmx", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Claim Offer", 
+            "type": "", 
+            "value": "", 
+            "width": 100, 
+            "x": 1572, 
+            "xPercent": 81.87174479166667, 
+            "y": 49, 
+            "yPercent": 0.5870249334301623
+        }, 
+        "location": {
+            "x": 1572, 
+            "y": 49
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 100
+        }, 
+        "tag_name": "div", 
+        "text": "Claim Offer"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Claim Offer", 
+    "transformed": true, 
+    "width": 100, 
+    "x": 1572, 
+    "y": 49
+}

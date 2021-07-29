@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "/aNQR391reV/aPgshfv1kg==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "a_X1440_Y391_W49_H52", 
+    "human_readable": "a_1440_391_49_52_a_fffffffffffffffffe3ffe3ffc3ffc3ffc7ffe7ffe7ffe7fffffffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MzI0ZWI0YjU0ZDcwMDIxMTE4MGE3Y2MxZjhiYmU0NTE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-link pl-0", 
+                "href": "https://www.facebook.com/Equinox", 
+                "role": "listitem", 
+                "title": "Facebook"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "nav-link pl-0", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 52, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 49, 
+            "x": 1440, 
+            "xPercent": 75, 
+            "y": 391, 
+            "yPercent": 4.511007376671277
+        }, 
+        "location": {
+            "x": 1440, 
+            "y": 391
+        }, 
+        "size": {
+            "height": 52, 
+            "width": 49
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "59ce5b745dc608bfbf3e0d28a1ef5a0e", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 49, 
+    "x": 1440, 
+    "y": 391
+}

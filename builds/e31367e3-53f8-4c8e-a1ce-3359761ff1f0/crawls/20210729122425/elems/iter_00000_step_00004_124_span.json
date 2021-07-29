@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ZL8GR4CtmMmlPj/9x//kfg==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "span_X257_Y659_W88_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(115, 115, 115)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Contact Us", 
+            "type": "", 
+            "value": "", 
+            "width": 88, 
+            "x": 257, 
+            "xPercent": 13.385416666666666, 
+            "y": 659, 
+            "yPercent": 7.599988473951129
+        }, 
+        "location": {
+            "x": 257, 
+            "y": 659
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 88
+        }, 
+        "tag_name": "span", 
+        "text": "Contact Us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Contact Us", 
+    "transformed": true, 
+    "width": 88, 
+    "x": 257, 
+    "y": 659
+}

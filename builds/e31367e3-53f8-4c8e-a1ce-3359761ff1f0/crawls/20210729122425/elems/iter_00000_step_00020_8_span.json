@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "kXI7GM9zgMOdGACAXkzLQg==\n", 
+    "height": 46, 
+    "hier_level": 0, 
+    "human_hash": "span_X1780_Y797_W117_H46", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-atomic": "true", 
+                "aria-live": "polite", 
+                "class": "helpButtonLabel", 
+                "id": "helpButtonSpan"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "helpButtonLabel", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 46, 
+            "identifier": "helpButtonSpan", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Live chat:Chat with us", 
+            "type": "", 
+            "value": "", 
+            "width": 117, 
+            "x": 1780, 
+            "xPercent": 92.68229166666667, 
+            "y": 797, 
+            "yPercent": 15.049093655589123
+        }, 
+        "location": {
+            "x": 1780, 
+            "y": 797
+        }, 
+        "size": {
+            "height": 46, 
+            "width": 117
+        }, 
+        "tag_name": "span", 
+        "text": "Live chat:Chat with us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Live chat:Chat with us", 
+    "transformed": true, 
+    "width": 117, 
+    "x": 1780, 
+    "y": 797
+}

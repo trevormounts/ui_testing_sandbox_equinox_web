@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "OMc1hTqcfoQ+vVd+EdWfxw==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "a_X1125_Y56_W28_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "href": "/spa"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Spa", 
+            "type": "", 
+            "value": "", 
+            "width": 28, 
+            "x": 1125, 
+            "xPercent": 58.616536458333336, 
+            "y": 56, 
+            "yPercent": 0.576264147025231
+        }, 
+        "location": {
+            "x": 1125, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 28
+        }, 
+        "tag_name": "a", 
+        "text": "Spa"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Spa", 
+    "transformed": true, 
+    "width": 28, 
+    "x": 1125, 
+    "y": 56
+}

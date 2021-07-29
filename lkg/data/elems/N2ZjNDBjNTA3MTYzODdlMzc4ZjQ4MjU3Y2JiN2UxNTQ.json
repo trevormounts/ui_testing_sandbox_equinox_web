@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ztxYMiirznu85NFx7fjXiw==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "a_X956_Y776_W149_H37", 
+    "human_readable": "a_956_776_149_37_a_ffffffffffffffffffff99b78007c00780078007ffffffffffffffffffffffff_ebc40561943f01d64ccb443e855a4f74", 
+    "image_path": "N2ZjNDBjNTA3MTYzODdlMzc4ZjQ4MjU3Y2JiN2UxNTQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-link active", 
+                "href": "https://www.equinox.com/feedback", 
+                "role": "listitem", 
+                "title": "Send Feedback "
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "nav-link active", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Send Feedback", 
+            "type": "", 
+            "value": "", 
+            "width": 149, 
+            "x": 956, 
+            "xPercent": 49.806315104166664, 
+            "y": 776, 
+            "yPercent": 8.948536191793453
+        }, 
+        "location": {
+            "x": 956, 
+            "y": 776
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 149
+        }, 
+        "tag_name": "a", 
+        "text": "Send Feedback"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "59ce5b745dc608bfbf3e0d28a1ef5a0e", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Send Feedback", 
+    "transformed": true, 
+    "width": 149, 
+    "x": 956, 
+    "y": 776
+}

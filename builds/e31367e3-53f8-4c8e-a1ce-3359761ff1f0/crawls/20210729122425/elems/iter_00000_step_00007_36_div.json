@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "xDUY81YUm05tQO8i42wznA==\n", 
+    "height": 94, 
+    "hier_level": 0, 
+    "human_hash": "div_X0_Y0_W1920_H94", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "headersContainer___36TlT navigation-height \n          headersContainer--fadein___2r8Ir"
+            }, 
+            "background-color": "rgb(0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "headersContainer___36TlT navigation-height \n          headersContainer--fadein___2r8Ir", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 94, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Discover our other brandsHigh Performance LivingLocationsStudiosHotelsEquinox Fitness ClubA temple of well-being featuring world-class personal trainers, Group Fitness classes, spas and more.Equinox Sports ClubMore than just an hour of the day, it\u2019s a second space. A magnetic destination for members to pursue their goals and build a community.E by EquinoxUnequaled. Unexpected. Utterly personal. A sanctuary of bespoke service and our finest amenities to unlock your highest performance. Precision RunSurpass all limits with expert-driven classes, innovative spaces, and a mission to redefine treadmill training.Equinox HotelsFueled by ambition. Powered by possibilities. Experience luxury for those who want it all.ClubsClassesPersonal TrainingPilatesShopSpaMember BenefitsEquinox AlumniLoginJoin Online Claim OfferAbout PilatesMovementThe Pilates MethodMembership", 
+            "type": "", 
+            "value": "", 
+            "width": 1920, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 94, 
+            "width": 1920
+        }, 
+        "tag_name": "div", 
+        "text": "Discover our other brandsHigh Performance LivingLocationsStudiosHotelsEquinox Fitness ClubA temple of well-being featuring world-class personal trainers, Group Fitness classes, spas and more.Equinox Sports ClubMore than just an hour of the day, it\u2019s a second space. A magnetic destination for members to pursue their goals and build a community.E by EquinoxUnequaled. Unexpected. Utterly personal. A sanctuary of bespoke service and our finest amenities to unlock your highest performance. Precision RunSurpass all limits with expert-driven classes, innovative spaces, and a mission to redefine treadmill training.Equinox HotelsFueled by ambition. Powered by possibilities. Experience luxury for those who want it all.ClubsClassesPersonal TrainingPilatesShopSpaMember BenefitsEquinox AlumniLoginJoin Online Claim OfferAbout PilatesMovementThe Pilates MethodMembership"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Discover our other brandsHigh Performance LivingLocationsStudiosHotelsEquinox Fitness ClubA temple of well-being featuring world-class personal trainers, Group Fitness classes, spas and more.Equinox Sports ClubMore than just an hour of the day, it\u2019s a second space. A magnetic destination for members to pursue their goals and build a community.E by EquinoxUnequaled. Unexpected. Utterly personal. A sanctuary of bespoke service and our finest amenities to unlock your highest performance. Precision RunSurpass all limits with expert-driven classes, innovative spaces, and a mission to redefine treadmill training.Equinox HotelsFueled by ambition. Powered by possibilities. Experience luxury for those who want it all.ClubsClassesPersonal TrainingPilatesShopSpaMember BenefitsEquinox AlumniLoginJoin Online Claim OfferAbout PilatesMovementThe Pilates MethodMembership", 
+    "transformed": true, 
+    "width": 1920, 
+    "x": 0, 
+    "y": 0
+}

@@ -1,0 +1,9 @@
+{
+    "desiredCaps": {
+        "browserName": "Chrome", 
+        "newCommandTimeout": 100
+    }, 
+    "deviceFriendlyName": "Chrome Version 63.0.3239.84 (Official Build) (64-bit)", 
+    "hostPlatformRelease": "20.4.0", 
+    "hostPlatformSystem": "Darwin"
+}

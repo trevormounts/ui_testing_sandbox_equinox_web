@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "g3mkfWWi0yE6fDomYkUpKw==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "li_X248_Y652_W338_H37", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "navLink___P_49A nav-item"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "navLink___P_49A nav-item", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Contact Us", 
+            "type": "", 
+            "value": 0, 
+            "width": 338, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 652, 
+            "yPercent": 7.519306131857999
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 652
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 338
+        }, 
+        "tag_name": "li", 
+        "text": "Contact Us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Contact Us", 
+    "transformed": true, 
+    "width": 338, 
+    "x": 248, 
+    "y": 652
+}

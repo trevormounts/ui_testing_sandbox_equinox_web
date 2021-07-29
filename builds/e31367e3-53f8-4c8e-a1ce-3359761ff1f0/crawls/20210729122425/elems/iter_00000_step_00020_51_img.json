@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "6nNTLowWHDqRP573Aw8W0g==\n", 
+    "height": 286, 
+    "hier_level": 0, 
+    "human_hash": "img_X1218_Y485_W430_H286", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Boston", 
+                "data-component": "ReactContentfulImage", 
+                "src": "https://images.ctfassets.net/drib7o8rcbyf/5spAdpKmcVgxAg21ZdpxUt/8149ca598fa18bcdef10d6502a65000e/Equinox_ClubPage_OtherLocations_ChestnutHill_2300x1533-min.jpg?fl=progressive&fm=jpg&q=45&w=440", 
+                "title": "Boston"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 286, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 430, 
+            "x": 1218, 
+            "xPercent": 63.4375, 
+            "y": 485, 
+            "yPercent": 9.157854984894259
+        }, 
+        "location": {
+            "x": 1218, 
+            "y": 485
+        }, 
+        "size": {
+            "height": 286, 
+            "width": 430
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 430, 
+    "x": 1218, 
+    "y": 485
+}

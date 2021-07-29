@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "svg", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "c7hIDDXWpt+3rdt9QlfiqA==\n", 
+    "height": 9, 
+    "hier_level": 0, 
+    "human_hash": "svg_X811_Y674_W11_H9", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-hidden": "true", 
+                "height": "9", 
+                "width": "11"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "svg", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 9, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "svg", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 11, 
+            "x": 811, 
+            "xPercent": 42.26481119791667, 
+            "y": 674, 
+            "yPercent": 9.89292920029347
+        }, 
+        "location": {
+            "x": 811, 
+            "y": 674
+        }, 
+        "size": {
+            "height": 9, 
+            "width": 11
+        }, 
+        "tag_name": "svg", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "svg", 
+    "text": "", 
+    "transformed": true, 
+    "width": 11, 
+    "x": 811, 
+    "y": 674
+}

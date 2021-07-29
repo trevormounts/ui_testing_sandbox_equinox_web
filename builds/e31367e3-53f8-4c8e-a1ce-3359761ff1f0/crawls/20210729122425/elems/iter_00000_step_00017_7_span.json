@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "slgfgDPG5n2gltiFAUKcVA==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "span_X248_Y124_W175_H72", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "formatted-text___SkD_K"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "formatted-text___SkD_K", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Titling Gothic FB Compressed Medium\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 60, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Equinox", 
+            "type": "", 
+            "value": "", 
+            "width": 175, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 124, 
+            "yPercent": 1.8195157740278796
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 124
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 175
+        }, 
+        "tag_name": "span", 
+        "text": "Equinox"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Equinox", 
+    "transformed": true, 
+    "width": 175, 
+    "x": 248, 
+    "y": 124
+}

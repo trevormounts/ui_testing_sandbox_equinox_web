@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "80Nd2Km9joDvooAUT1sn/w==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "li_X1105_Y776_W208_H37", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "navLink___P_49A nav-item"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "navLink___P_49A nav-item", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Privacy Policy - Updated", 
+            "type": "", 
+            "value": 0, 
+            "width": 208, 
+            "x": 1105, 
+            "xPercent": 57.569986979166664, 
+            "y": 776, 
+            "yPercent": 8.948536191793453
+        }, 
+        "location": {
+            "x": 1105, 
+            "y": 776
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 208
+        }, 
+        "tag_name": "li", 
+        "text": "Privacy Policy - Updated"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Privacy Policy - Updated", 
+    "transformed": true, 
+    "width": 208, 
+    "x": 1105, 
+    "y": 776
+}

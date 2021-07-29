@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Xw6ccMM+c4fo0k3RDI9XFg==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "a_X1313_Y776_W177_H37", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-link active", 
+                "href": "https://www.equinox.com/terms", 
+                "role": "listitem", 
+                "title": "Terms & Conditions"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "nav-link active", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Terms & Conditions", 
+            "type": "", 
+            "value": "", 
+            "width": 177, 
+            "x": 1313, 
+            "xPercent": 68.40006510416666, 
+            "y": 776, 
+            "yPercent": 8.948536191793453
+        }, 
+        "location": {
+            "x": 1313, 
+            "y": 776
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 177
+        }, 
+        "tag_name": "a", 
+        "text": "Terms & Conditions"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Terms & Conditions", 
+    "transformed": true, 
+    "width": 177, 
+    "x": 1313, 
+    "y": 776
+}

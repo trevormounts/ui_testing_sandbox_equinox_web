@@ -1,0 +1,132 @@
+{
+    "elems": {
+        "iter_00000_step_00014_23_a.png": [
+            "lnk_claim_offer"
+        ], 
+        "iter_00000_step_00014_34_button.png": [
+            "btn_claim_offer"
+        ], 
+        "iter_00000_step_00014_37_h1.png": [
+            "ttl_welcome_forward"
+        ], 
+        "iter_00000_step_00020_51_img.png": [
+            "img_boston"
+        ], 
+        "iter_00000_step_00022_10_span.png": [
+            "ttl_only_at_equinox"
+        ], 
+        "iter_00000_step_00024_0_a.png": [
+            "lnk_sitemap"
+        ], 
+        "iter_00000_step_00024_105_a.png": [
+            "lnk_send_feedback"
+        ], 
+        "iter_00000_step_00024_109_a.png": [
+            "icn_instagram"
+        ], 
+        "iter_00000_step_00024_117_a.png": [
+            "lnk_blink"
+        ], 
+        "iter_00000_step_00024_118_a.png": [
+            "lnk_pure_yoga"
+        ], 
+        "iter_00000_step_00024_123_a.png": [
+            "lnk_gift_card"
+        ], 
+        "iter_00000_step_00024_20_a.png": [
+            "lnk_terms_conditions"
+        ], 
+        "iter_00000_step_00024_21_a.png": [
+            "icn_facebook"
+        ], 
+        "iter_00000_step_00024_22_a.png": [
+            "lnk_precision_run"
+        ], 
+        "iter_00000_step_00024_31_a.png": [
+            "lnk_pilates_teacher_training"
+        ], 
+        "iter_00000_step_00024_49_a.png": [
+            "lnk_member_policies"
+        ], 
+        "iter_00000_step_00024_4_a.png": [
+            "lnk_contact_us"
+        ], 
+        "iter_00000_step_00024_52_a.png": [
+            "lnk_soul_cycle"
+        ], 
+        "iter_00000_step_00024_62_a.png": [
+            "lnk_faqs"
+        ], 
+        "iter_00000_step_00024_70_a.png": [
+            "lnk_privacy_policy"
+        ], 
+        "iter_00000_step_00024_82_a.png": [
+            "lnk_press_releases"
+        ], 
+        "iter_00000_step_00024_85_a.png": [
+            "lnk_core_values"
+        ], 
+        "iter_00000_step_00024_87_a.png": [
+            "icn_twitter"
+        ], 
+        "iter_00000_step_00024_89_a.png": [
+            "lnk_careers"
+        ], 
+        "iter_00000_step_00024_92_a.png": [
+            "lnk_education"
+        ], 
+        "iter_00000_step_00024_98_a.png": [
+            "lnk_youtube"
+        ], 
+        "iter_00000_step_00025_10_img.png": [], 
+        "iter_00000_step_00025_12_a.png": [
+            "icn_equinox_home"
+        ], 
+        "iter_00000_step_00025_13_a.png": [
+            "mnu_shop"
+        ], 
+        "iter_00000_step_00025_14_a.png": [
+            "icn_user_profile"
+        ], 
+        "iter_00000_step_00025_16_a.png": [
+            "mnu_equinox_alumni"
+        ], 
+        "iter_00000_step_00025_25_a.png": [
+            "mnu_join_online"
+        ], 
+        "iter_00000_step_00025_28_a.png": [
+            "mnu_classes"
+        ], 
+        "iter_00000_step_00025_35_a.png": [
+            "mnu_spa"
+        ], 
+        "iter_00000_step_00025_36_a.png": [
+            "mnu_pilates"
+        ], 
+        "iter_00000_step_00025_38_a.png": [
+            "mnu_studios"
+        ], 
+        "iter_00000_step_00025_40_button.png": [
+            "btn_chat_with_us"
+        ], 
+        "iter_00000_step_00025_41_a.png": [
+            "btn_claim_offer_2"
+        ], 
+        "iter_00000_step_00025_43_span.png": [
+            "ttl_contact_us"
+        ], 
+        "iter_00000_step_00025_46_a.png": [
+            "mnu_member_benefits"
+        ], 
+        "iter_00000_step_00025_47_a.png": [
+            "mnu_personal_training"
+        ], 
+        "iter_00000_step_00025_48_a.png": [
+            "mnu_locations"
+        ], 
+        "iter_00000_step_00025_4_a.png": [
+            "mnu_clubs"
+        ]
+    }, 
+    "screens": {}
+}

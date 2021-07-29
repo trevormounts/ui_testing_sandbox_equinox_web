@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "QnXza68cCiKK3BeNv6jjUQ==\n", 
+    "height": 140, 
+    "hier_level": 0, 
+    "human_hash": "span_X248_Y203_W332_H140", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "formatted-text___3lyyk"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "formatted-text___3lyyk", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 20, 
+            "height": 140, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "You can now experience Equinox\u2014however, whenever, and wherever you want it\u2014with seamlessly integrated and always-on physical and digital programming.", 
+            "type": "", 
+            "value": "", 
+            "width": 332, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 203, 
+            "yPercent": 2.9787234042553195
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 203
+        }, 
+        "size": {
+            "height": 140, 
+            "width": 332
+        }, 
+        "tag_name": "span", 
+        "text": "You can now experience Equinox\u2014however, whenever, and wherever you want it\u2014with seamlessly integrated and always-on physical and digital programming."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "You can now experience Equinox\u2014however, whenever, and wherever you want it\u2014with seamlessly integrated and always-on physical and digital programming.", 
+    "transformed": true, 
+    "width": 332, 
+    "x": 248, 
+    "y": 203
+}

@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "TxtplQajl982k9FRDuyTSg==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "div_X240_Y2_W174_H36", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "logo ", 
+                "href": "#", 
+                "tabindex": "1"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "logo ", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Discover our other brandsHigh Performance Living", 
+            "type": "", 
+            "value": "", 
+            "width": 174, 
+            "x": 240, 
+            "xPercent": 12.5, 
+            "y": 2, 
+            "yPercent": 0.020766275568476794
+        }, 
+        "location": {
+            "x": 240, 
+            "y": 2
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 174
+        }, 
+        "tag_name": "div", 
+        "text": "Discover our other brandsHigh Performance Living"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Discover our other brandsHigh Performance Living", 
+    "transformed": true, 
+    "width": 174, 
+    "x": 240, 
+    "y": 2
+}

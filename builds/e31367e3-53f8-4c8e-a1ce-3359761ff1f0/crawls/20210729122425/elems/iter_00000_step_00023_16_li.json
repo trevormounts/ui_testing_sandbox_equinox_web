@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "gxKGp96sPZNP3fLzkE3oDQ==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "li_X1562_Y391_W49_H52", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 52, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "", 
+            "type": "", 
+            "value": 0, 
+            "width": 49, 
+            "x": 1562, 
+            "xPercent": 81.35416666666667, 
+            "y": 391, 
+            "yPercent": 4.511007376671277
+        }, 
+        "location": {
+            "x": 1562, 
+            "y": 391
+        }, 
+        "size": {
+            "height": 52, 
+            "width": 49
+        }, 
+        "tag_name": "li", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "", 
+    "transformed": true, 
+    "width": 49, 
+    "x": 1562, 
+    "y": 391
+}

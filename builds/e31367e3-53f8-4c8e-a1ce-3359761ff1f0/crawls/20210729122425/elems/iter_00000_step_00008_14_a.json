@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "OHdqo23YauKNZLUsv1/1hw==\n", 
+    "height": 27, 
+    "hier_level": 0, 
+    "human_hash": "a_X242_Y53_W131_H27", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "brandLogo___2Go0n", 
+                "href": "/", 
+                "title": "Equinox"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "brandLogo___2Go0n", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 131, 
+            "x": 242, 
+            "xPercent": 12.604166666666666, 
+            "y": 53, 
+            "yPercent": 0.5503063025646351
+        }, 
+        "location": {
+            "x": 242, 
+            "y": 53
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 131
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 131, 
+    "x": 242, 
+    "y": 53
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "TSO83F0knkpaNE3wOv4rHg==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "span_X248_Y184_W344_H72", 
+    "human_readable": "span_248_184_344_72_span_00000000f3fffffffefffe7ffefff6ffe6ffe67fe6fff6fff2ff000000000000_e6034eb5e653dc691e43fe4be2f9382b", 
+    "image_path": "YjY2NjQyZTU3ZTE1MGZlZmE3ODcwOGE3N2E2ZTk0NzE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "formatted-text___SkD_K"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "formatted-text___SkD_K", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Titling Gothic FB Compressed Medium\"", 
+            "font-weight": "400", 
+            "fontSize": 60, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "ONLY AT EQUINOX", 
+            "type": "", 
+            "value": "", 
+            "width": 344, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 184, 
+            "yPercent": 2.116470723835869
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 184
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 344
+        }, 
+        "tag_name": "span", 
+        "text": "ONLY AT EQUINOX"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b67337a619c8b57a012c4067e905d4f3", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "ONLY AT EQUINOX", 
+    "transformed": true, 
+    "width": 344, 
+    "x": 248, 
+    "y": 184
+}

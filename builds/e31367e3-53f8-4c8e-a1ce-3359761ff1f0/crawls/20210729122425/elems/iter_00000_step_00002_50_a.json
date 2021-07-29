@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "W91s3WlE1A6S+cs6UwMOiA==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "a_X1572_Y49_W100_H36", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ctaBordered___sOavu", 
+                "href": "#", 
+                "role": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "ctaBordered___sOavu", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Claim Offer", 
+            "type": "", 
+            "value": "", 
+            "width": 100, 
+            "x": 1572, 
+            "xPercent": 81.87174479166667, 
+            "y": 49, 
+            "yPercent": 0.5590133702166897
+        }, 
+        "location": {
+            "x": 1572, 
+            "y": 49
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 100
+        }, 
+        "tag_name": "a", 
+        "text": "Claim Offer"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Claim Offer", 
+    "transformed": true, 
+    "width": 100, 
+    "x": 1572, 
+    "y": 49
+}

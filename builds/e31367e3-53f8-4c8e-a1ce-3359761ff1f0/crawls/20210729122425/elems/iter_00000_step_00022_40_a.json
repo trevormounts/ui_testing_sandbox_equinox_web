@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "tB1cFSM8/MJ3FE0uDYfMeQ==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "a_X355_Y489_W215_H20", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "https://www.equinox.com/page/theequinoxstandard"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 20, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "safety of our members", 
+            "type": "", 
+            "value": "", 
+            "width": 215, 
+            "x": 355, 
+            "xPercent": 18.466796875, 
+            "y": 489, 
+            "yPercent": 5.631915629322268
+        }, 
+        "location": {
+            "x": 355, 
+            "y": 489
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 215
+        }, 
+        "tag_name": "a", 
+        "text": "safety of our members"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "safety of our members", 
+    "transformed": true, 
+    "width": 215, 
+    "x": 355, 
+    "y": 489
+}

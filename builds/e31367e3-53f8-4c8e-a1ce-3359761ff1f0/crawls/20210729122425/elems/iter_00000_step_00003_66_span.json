@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "VNqkvj/Sg0iH76iSAZc7Nw==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "span_X257_Y622_W75_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(115, 115, 115)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Gift Card", 
+            "type": "", 
+            "value": "", 
+            "width": 75, 
+            "x": 257, 
+            "xPercent": 13.385416666666666, 
+            "y": 622, 
+            "yPercent": 7.173524665744583
+        }, 
+        "location": {
+            "x": 257, 
+            "y": 622
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 75
+        }, 
+        "tag_name": "span", 
+        "text": "Gift Card"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Gift Card", 
+    "transformed": true, 
+    "width": 75, 
+    "x": 257, 
+    "y": 622
+}

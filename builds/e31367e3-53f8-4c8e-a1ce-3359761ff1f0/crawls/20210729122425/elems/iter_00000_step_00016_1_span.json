@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "wQu20XzHjtYGC688KsEi+w==\n", 
+    "height": 132, 
+    "hier_level": 0, 
+    "human_hash": "span_X248_Y167_W301_H132", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "formatted-text___SkD_K"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "formatted-text___SkD_K", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Titling Gothic FB Compressed Medium\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 60, 
+            "height": 132, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "MEMBERSHIP TRANSFORMED", 
+            "type": "", 
+            "value": "", 
+            "width": 301, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 167, 
+            "yPercent": 2.4502476155539252
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 167
+        }, 
+        "size": {
+            "height": 132, 
+            "width": 301
+        }, 
+        "tag_name": "span", 
+        "text": "MEMBERSHIP TRANSFORMED"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "MEMBERSHIP TRANSFORMED", 
+    "transformed": true, 
+    "width": 301, 
+    "x": 248, 
+    "y": 167
+}

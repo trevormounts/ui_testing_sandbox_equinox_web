@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Go/UCaZPuCiqVGBb+KmOPw==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "a_X248_Y652_W120_H37", 
+    "human_readable": "a_248_652_120_37_a_ffffffffffffffffffffc90fc00fc00fc007c00fffffffffffffffffffffffff_e54175e0713e8e406d516288a41a91cb", 
+    "image_path": "YzVmMmUwNTQ1YTdkMWNjNmViNGZjZDliZTY1MmY1YjA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-link active", 
+                "href": "https://www.equinox.com/landing/getintouch?icmp=bottomnav-contactus", 
+                "role": "listitem", 
+                "title": "Contact Us"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "nav-link active", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Contact Us", 
+            "type": "", 
+            "value": "", 
+            "width": 120, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 652, 
+            "yPercent": 7.519306131857999
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 652
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 120
+        }, 
+        "tag_name": "a", 
+        "text": "Contact Us"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "59ce5b745dc608bfbf3e0d28a1ef5a0e", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Contact Us", 
+    "transformed": true, 
+    "width": 120, 
+    "x": 248, 
+    "y": 652
+}

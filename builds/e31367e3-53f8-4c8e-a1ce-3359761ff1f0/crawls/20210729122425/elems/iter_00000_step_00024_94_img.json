@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "WNRdiddXglIBDiwx+Q0aqw==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "img_X1505_Y397_W40_H40", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "social icon for redirection to equinox social network accounts", 
+                "data-component": "ReactContentfulImage", 
+                "src": "https://images.ctfassets.net/drib7o8rcbyf/5g2Xaa8VVzFc5Spl6kcLO1/62b5bddf029e5f495f2ecc8e896dbb30/twitter.jpg?fit=fill&fl=progressive&fm=jpg&h=40&q=45&w=40", 
+                "title": "Twitter"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(0, 0, 0)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 40, 
+            "x": 1505, 
+            "xPercent": 78.38541666666666, 
+            "y": 397, 
+            "yPercent": 4.58016366989396
+        }, 
+        "location": {
+            "x": 1505, 
+            "y": 397
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 40
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 40, 
+    "x": 1505, 
+    "y": 397
+}

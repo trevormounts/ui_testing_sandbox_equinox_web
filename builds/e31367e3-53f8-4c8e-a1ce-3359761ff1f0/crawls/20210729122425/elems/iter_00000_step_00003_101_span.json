@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "bXp9W7t9ecfn1/cMJV+pcQ==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "span_X619_Y437_W82_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(115, 115, 115)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "SoulCycle", 
+            "type": "", 
+            "value": "", 
+            "width": 82, 
+            "x": 619, 
+            "xPercent": 32.239583333333336, 
+            "y": 437, 
+            "yPercent": 5.041205624711849
+        }, 
+        "location": {
+            "x": 619, 
+            "y": 437
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 82
+        }, 
+        "tag_name": "span", 
+        "text": "SoulCycle"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "SoulCycle", 
+    "transformed": true, 
+    "width": 82, 
+    "x": 619, 
+    "y": 437
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "D6Q8DclIbkDeyi2tBmR3Iw==\n", 
+    "height": 320, 
+    "hier_level": 0, 
+    "human_hash": "div_X248_Y406_W338_H320", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 320, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "AboutCareersPress ReleasesEducationPilates Teacher TrainingCore ValuesGift CardContact UsMember Policies", 
+            "type": "", 
+            "value": "", 
+            "width": 338, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 406, 
+            "yPercent": 4.683898109727985
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 406
+        }, 
+        "size": {
+            "height": 320, 
+            "width": 338
+        }, 
+        "tag_name": "div", 
+        "text": "AboutCareersPress ReleasesEducationPilates Teacher TrainingCore ValuesGift CardContact UsMember Policies"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "AboutCareersPress ReleasesEducationPilates Teacher TrainingCore ValuesGift CardContact UsMember Policies", 
+    "transformed": true, 
+    "width": 338, 
+    "x": 248, 
+    "y": 406
+}

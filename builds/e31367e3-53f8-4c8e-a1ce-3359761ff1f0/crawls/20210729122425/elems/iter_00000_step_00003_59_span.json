@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "9SrWJ46Hz0IuzkvIleRtEQ==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "span_X619_Y511_W105_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(115, 115, 115)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Precision Run", 
+            "type": "", 
+            "value": "", 
+            "width": 105, 
+            "x": 619, 
+            "xPercent": 32.239583333333336, 
+            "y": 511, 
+            "yPercent": 5.894133241124942
+        }, 
+        "location": {
+            "x": 619, 
+            "y": 511
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 105
+        }, 
+        "tag_name": "span", 
+        "text": "Precision Run"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Precision Run", 
+    "transformed": true, 
+    "width": 105, 
+    "x": 619, 
+    "y": 511
+}

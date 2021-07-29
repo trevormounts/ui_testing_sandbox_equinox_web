@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h3", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "R2qBwLg9fWvfW0P8EFkzOQ==\n", 
+    "height": 28, 
+    "hier_level": 0, 
+    "human_hash": "h3_X701_Y500_W429_H28", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "moduleEditorialGrid2Column__title___2-XzN", 
+                "style": "color: white;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h3", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "moduleEditorialGrid2Column__title___2-XzN", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 20, 
+            "height": 28, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h3", 
+            "text": "WELCOME FORWARD", 
+            "type": "", 
+            "value": "", 
+            "width": 429, 
+            "x": 701, 
+            "xPercent": 36.484375, 
+            "y": 500, 
+            "yPercent": 7.335152237710932
+        }, 
+        "location": {
+            "x": 701, 
+            "y": 500
+        }, 
+        "size": {
+            "height": 28, 
+            "width": 429
+        }, 
+        "tag_name": "h3", 
+        "text": "WELCOME FORWARD"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "h3", 
+    "text": "WELCOME FORWARD", 
+    "transformed": true, 
+    "width": 429, 
+    "x": 701, 
+    "y": 500
+}

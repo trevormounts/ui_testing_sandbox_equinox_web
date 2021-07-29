@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "xvcxCqyEBYD4go3oZx9pyw==\n", 
+    "height": 14, 
+    "hier_level": 0, 
+    "human_hash": "a_X272_Y687_W138_H14", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "link_arrow___1Cz4g", 
+                "href": "/clubs/boston"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "link_arrow___1Cz4g", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "View all 5 clubs", 
+            "type": "", 
+            "value": "", 
+            "width": 138, 
+            "x": 272, 
+            "xPercent": 14.166666666666666, 
+            "y": 687, 
+            "yPercent": 12.965563632930513
+        }, 
+        "location": {
+            "x": 272, 
+            "y": 687
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 138
+        }, 
+        "tag_name": "a", 
+        "text": "View all 5 clubs"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "View all 5 clubs", 
+    "transformed": true, 
+    "width": 138, 
+    "x": 272, 
+    "y": 687
+}

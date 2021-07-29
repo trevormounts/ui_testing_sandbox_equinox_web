@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "FKYp89I0rSZIoQ/G3CqJ0w==\n", 
+    "height": 270, 
+    "hier_level": 0, 
+    "human_hash": "div_X248_Y274_W429_H270", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "subCopy___15sFN d-xl-block d-lg-block d-md-none d-sm-none"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "subCopy___15sFN d-xl-block d-lg-block d-md-none d-sm-none", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 20, 
+            "height": 270, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Created and developed by the industry\u2019s best minds and taught by talented instructors who test your limits and inspire results.\u00a0\n\nFind them in our pristine studio spaces with physical distancing measures in place to ensure the safety of our members and on demand with the Equinox+ app.", 
+            "type": "", 
+            "value": "", 
+            "width": 429, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 274, 
+            "yPercent": 3.153815122176118
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 274
+        }, 
+        "size": {
+            "height": 270, 
+            "width": 429
+        }, 
+        "tag_name": "div", 
+        "text": "Created and developed by the industry\u2019s best minds and taught by talented instructors who test your limits and inspire results.\u00a0\n\nFind them in our pristine studio spaces with physical distancing measures in place to ensure the safety of our members and on demand with the Equinox+ app."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Created and developed by the industry\u2019s best minds and taught by talented instructors who test your limits and inspire results.\u00a0\n\nFind them in our pristine studio spaces with physical distancing measures in place to ensure the safety of our members and on demand with the Equinox+ app.", 
+    "transformed": true, 
+    "width": 429, 
+    "x": 248, 
+    "y": 274
+}

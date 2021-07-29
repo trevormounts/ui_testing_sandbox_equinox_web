@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "y88NejlzRmVFUQ8PZiPk/Q==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "a_X701_Y666_W429_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "moduleEditorialGrid2Column__ctaBtn___pdOQq", 
+                "href": "https://www.equinoxupdate.com/welcome-forward", 
+                "rel": "noopener noreferrer", 
+                "style": "color: white;", 
+                "target": "_blank"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "moduleEditorialGrid2Column__ctaBtn___pdOQq", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Learn More", 
+            "type": "", 
+            "value": "", 
+            "width": 429, 
+            "x": 701, 
+            "xPercent": 36.484375, 
+            "y": 666, 
+            "yPercent": 9.770955612619222
+        }, 
+        "location": {
+            "x": 701, 
+            "y": 666
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 429
+        }, 
+        "tag_name": "a", 
+        "text": "Learn More"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Learn More", 
+    "transformed": true, 
+    "width": 429, 
+    "x": 701, 
+    "y": 666
+}

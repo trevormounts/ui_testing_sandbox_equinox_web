@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "y7v0eOC53c3uIPp5/2CAow==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "span_X1583_Y56_W78_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Claim Offer", 
+            "type": "", 
+            "value": "", 
+            "width": 78, 
+            "x": 1583, 
+            "xPercent": 82.44466145833333, 
+            "y": 56, 
+            "yPercent": 1.0479607250755287
+        }, 
+        "location": {
+            "x": 1583, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 78
+        }, 
+        "tag_name": "span", 
+        "text": "Claim Offer"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Claim Offer", 
+    "transformed": true, 
+    "width": 78, 
+    "x": 1583, 
+    "y": 56
+}

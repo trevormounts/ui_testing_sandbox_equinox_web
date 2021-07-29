@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "WFf15VHb1Fgi3gQfByfdXg==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "a_X610_Y430_W114_H37", 
+    "human_readable": "a_610_430_114_37_a_ffffffffffffffffffffccdfc00fc10fc00fc00fff7fffffffffffffffffffff_e8448fb63ba6acb0323faee83f60a9ea", 
+    "image_path": "MjFmYzU4NDdiZWM2ZjU4YTcwMzY4YTdiODAyZTllYmM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-link active", 
+                "href": "https://www.soul-cycle.com/", 
+                "role": "listitem", 
+                "title": "SoulCycle"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "nav-link active", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "SoulCycle", 
+            "type": "", 
+            "value": "", 
+            "width": 114, 
+            "x": 610, 
+            "xPercent": 31.770833333333332, 
+            "y": 430, 
+            "yPercent": 4.960523282618718
+        }, 
+        "location": {
+            "x": 610, 
+            "y": 430
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 114
+        }, 
+        "tag_name": "a", 
+        "text": "SoulCycle"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "59ce5b745dc608bfbf3e0d28a1ef5a0e", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "SoulCycle", 
+    "transformed": true, 
+    "width": 114, 
+    "x": 610, 
+    "y": 430
+}

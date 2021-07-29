@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "h1", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "T86aR7r1veQaaZM3yyEkGQ==\n", 
+    "height": 288, 
+    "hier_level": 0, 
+    "human_hash": "h1_X598_Y177_W724_H288", 
+    "human_readable": "h1_598_177_724_288_h1_0000000000000000000006f00ff00ff00ff08ff0ec00fff07ff07ff07ff07fa0_48131e869ab74a29e3a50473216d9d57", 
+    "image_path": "MTcyYjIzYjViMDNjNzBhZDQ4MDcwNjIyMWYxYmQxNTM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "headline-element-desktop___3u_q8 Desktop-Large___2ZP9G d-xl-block d-lg-block d-md-none d-sm-none"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "h1", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "headline-element-desktop___3u_q8 Desktop-Large___2ZP9G d-xl-block d-lg-block d-md-none d-sm-none", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Titling Gothic FB Compressed Medium\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 96, 
+            "height": 288, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "h1", 
+            "text": "WELCOME\nFORWARD", 
+            "type": "", 
+            "value": "", 
+            "width": 724, 
+            "x": 598, 
+            "xPercent": 31.145833333333332, 
+            "y": 177, 
+            "yPercent": 2.596524211298606
+        }, 
+        "location": {
+            "x": 598, 
+            "y": 177
+        }, 
+        "size": {
+            "height": 288, 
+            "width": 724
+        }, 
+        "tag_name": "h1", 
+        "text": "WELCOME\nFORWARD"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "285c2a879cbf7e46d3b8ec034a051a04", 
+    "scrollable": false, 
+    "tag_name": "h1", 
+    "text": "WELCOME\nFORWARD", 
+    "transformed": true, 
+    "width": 724, 
+    "x": 598, 
+    "y": 177
+}

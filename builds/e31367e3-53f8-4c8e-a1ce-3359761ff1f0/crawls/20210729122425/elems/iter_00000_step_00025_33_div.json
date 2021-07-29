@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "IhTD62EPDCOvMHVNG6jgHg==\n", 
+    "height": 120, 
+    "hier_level": 0, 
+    "human_hash": "div_X248_Y104_W338_H120", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "editorialTitle___30_DS  titleWithNoSubcopy___1VZHD"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "editorialTitle___30_DS  titleWithNoSubcopy___1VZHD", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 120, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "CONTACT US", 
+            "type": "", 
+            "value": "", 
+            "width": 338, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 104, 
+            "yPercent": 6.081871345029239
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 104
+        }, 
+        "size": {
+            "height": 120, 
+            "width": 338
+        }, 
+        "tag_name": "div", 
+        "text": "CONTACT US"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "CONTACT US", 
+    "transformed": true, 
+    "width": 338, 
+    "x": 248, 
+    "y": 104
+}

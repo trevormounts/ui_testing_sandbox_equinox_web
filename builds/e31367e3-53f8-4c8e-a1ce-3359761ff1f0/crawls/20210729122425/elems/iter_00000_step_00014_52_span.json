@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "e7l8N+2+DWFRF8qAH+biYQ==\n", 
+    "height": 14, 
+    "hier_level": 0, 
+    "human_hash": "span_X914_Y610_W92_H14", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "CLAIM OFFER", 
+            "type": "", 
+            "value": "", 
+            "width": 92, 
+            "x": 914, 
+            "xPercent": 47.60986328125, 
+            "y": 610, 
+            "yPercent": 8.957492663242848
+        }, 
+        "location": {
+            "x": 914, 
+            "y": 610
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 92
+        }, 
+        "tag_name": "span", 
+        "text": "CLAIM OFFER"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "CLAIM OFFER", 
+    "transformed": true, 
+    "width": 92, 
+    "x": 914, 
+    "y": 610
+}

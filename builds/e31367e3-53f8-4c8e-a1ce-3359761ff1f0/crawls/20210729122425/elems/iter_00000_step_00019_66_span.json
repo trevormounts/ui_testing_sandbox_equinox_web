@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "YNqkAToYzWhw9d3A1suJVw==\n", 
+    "height": 14, 
+    "hier_level": 0, 
+    "human_hash": "span_X272_Y687_W138_H14", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "View all 5 clubs", 
+            "type": "", 
+            "value": "", 
+            "width": 138, 
+            "x": 272, 
+            "xPercent": 14.166666666666666, 
+            "y": 687, 
+            "yPercent": 12.965563632930513
+        }, 
+        "location": {
+            "x": 272, 
+            "y": 687
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 138
+        }, 
+        "tag_name": "span", 
+        "text": "View all 5 clubs"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "View all 5 clubs", 
+    "transformed": true, 
+    "width": 138, 
+    "x": 272, 
+    "y": 687
+}

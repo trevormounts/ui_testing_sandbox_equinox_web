@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "3FEyLAJhOzlSqx14pbiwxA==\n", 
+    "height": 335, 
+    "hier_level": 0, 
+    "human_hash": "div_X960_Y391_W724_H335", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col-lg-8 col-sm-16 footerSocialIcons___1XD6I", 
+                "role": "list"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "col-lg-8 col-sm-16 footerSocialIcons___1XD6I", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 335, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 724, 
+            "x": 960, 
+            "xPercent": 50, 
+            "y": 391, 
+            "yPercent": 4.511007376671277
+        }, 
+        "location": {
+            "x": 960, 
+            "y": 391
+        }, 
+        "size": {
+            "height": 335, 
+            "width": 724
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 724, 
+    "x": 960, 
+    "y": 391
+}

@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "d5B0WKLHLe63csaU/iExrQ==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "li_X610_Y504_W338_H37", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "navLink___P_49A nav-item"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "navLink___P_49A nav-item", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Precision Run", 
+            "type": "", 
+            "value": 0, 
+            "width": 338, 
+            "x": 610, 
+            "xPercent": 31.770833333333332, 
+            "y": 504, 
+            "yPercent": 5.813450899031812
+        }, 
+        "location": {
+            "x": 610, 
+            "y": 504
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 338
+        }, 
+        "tag_name": "li", 
+        "text": "Precision Run"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Precision Run", 
+    "transformed": true, 
+    "width": 338, 
+    "x": 610, 
+    "y": 504
+}

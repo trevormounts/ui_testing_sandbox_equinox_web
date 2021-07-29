@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "AonmJQF6M2V4nZUaI1BIBQ==\n", 
+    "height": 540, 
+    "hier_level": 0, 
+    "human_hash": "div_X236_Y133_W1448_H540", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "hero-inner___3aMax container"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "hero-inner___3aMax container", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 540, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "MORE THAN\nA WORKOUT\n\nMORE THAN\nA WORKOUTFitness classes at Equinox are experiences, created, and developed by the industry\u2019s best minds bringing results through innovation.Learn More", 
+            "type": "", 
+            "value": "", 
+            "width": 1448, 
+            "x": 236, 
+            "xPercent": 12.291666666666666, 
+            "y": 133, 
+            "yPercent": 1.532964499769479
+        }, 
+        "location": {
+            "x": 236, 
+            "y": 133
+        }, 
+        "size": {
+            "height": 540, 
+            "width": 1448
+        }, 
+        "tag_name": "div", 
+        "text": "MORE THAN\nA WORKOUT\n\nMORE THAN\nA WORKOUTFitness classes at Equinox are experiences, created, and developed by the industry\u2019s best minds bringing results through innovation.Learn More"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "MORE THAN\nA WORKOUT\n\nMORE THAN\nA WORKOUTFitness classes at Equinox are experiences, created, and developed by the industry\u2019s best minds bringing results through innovation.Learn More", 
+    "transformed": true, 
+    "width": 1448, 
+    "x": 236, 
+    "y": 133
+}

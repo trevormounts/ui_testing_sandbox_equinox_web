@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "1YXFf9Mbw31Kx/QMG01wXw==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "a_X1570_Y776_W102_H37", 
+    "human_readable": "a_1570_776_102_37_a_ffffffffffffffffffffc3ffc00fe00fc00fc01fffdfffffffffffffffffffff_843c85dbc8b3423693aae2c1b613bfb2", 
+    "image_path": "MWQ2YjZjNzRmNDExNThkOTk1MzZiYjRiNGJkYjM0OTY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-link active", 
+                "href": "https://www.equinox.com/sitemap", 
+                "role": "listitem", 
+                "title": "Sitemap"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "nav-link active", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Sitemap", 
+            "type": "", 
+            "value": "", 
+            "width": 102, 
+            "x": 1570, 
+            "xPercent": 81.79524739583334, 
+            "y": 776, 
+            "yPercent": 8.948536191793453
+        }, 
+        "location": {
+            "x": 1570, 
+            "y": 776
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 102
+        }, 
+        "tag_name": "a", 
+        "text": "Sitemap"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "59ce5b745dc608bfbf3e0d28a1ef5a0e", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Sitemap", 
+    "transformed": true, 
+    "width": 102, 
+    "x": 1570, 
+    "y": 776
+}

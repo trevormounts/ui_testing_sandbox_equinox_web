@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "1jWETn3ToYV6PNseCP+xlQ==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "a_X1171_Y56_W116_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "href": "/memberbenefits?icmp=topnav-memberbenefits"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Member Benefits", 
+            "type": "", 
+            "value": "", 
+            "width": 116, 
+            "x": 1171, 
+            "xPercent": 60.99283854166667, 
+            "y": 56, 
+            "yPercent": 0.6717501815541032
+        }, 
+        "location": {
+            "x": 1171, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 116
+        }, 
+        "tag_name": "a", 
+        "text": "Member Benefits"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Member Benefits", 
+    "transformed": true, 
+    "width": 116, 
+    "x": 1171, 
+    "y": 56
+}

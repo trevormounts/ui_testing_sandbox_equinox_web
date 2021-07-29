@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "finMq+t7JifXiIZPEHFiNQ==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "a_X248_Y541_W204_H37", 
+    "human_readable": "a_248_541_204_37_a_ffffffffffffffffffff928f8003800380038043fffbffffffffffffffffffff_899e4d30ebaa2017c46c407bbe65a022", 
+    "image_path": "OGI1OTQ0YWEyOTk0Yzg4NDhmZWU5NDFiZjNlNjVkYzY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-link active", 
+                "href": "https://www.equinox.com/landing/pilates-teacher-training", 
+                "role": "listitem", 
+                "title": "Pilates Teacher Training"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "nav-link active", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Pilates Teacher Training", 
+            "type": "", 
+            "value": "", 
+            "width": 204, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 541, 
+            "yPercent": 6.239914707238359
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 541
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 204
+        }, 
+        "tag_name": "a", 
+        "text": "Pilates Teacher Training"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "59ce5b745dc608bfbf3e0d28a1ef5a0e", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Pilates Teacher Training", 
+    "transformed": true, 
+    "width": 204, 
+    "x": 248, 
+    "y": 541
+}

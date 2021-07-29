@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "XbqVTFnJMIo7qQ7t3GajNA==\n", 
+    "height": 72, 
+    "hier_level": 0, 
+    "human_hash": "span_X248_Y158_W245_H72", 
+    "human_readable": "span_248_158_245_72_span_00000000ff77fff7ffe7ffe6bf86bf97bf85ffe5ffe7ffe7fbc7000000000000_0a1fffaf609be2bf3c036db03fb5c04a", 
+    "image_path": "Nzk2MWM2MDZmMDVmODlkNGY1MWNmNjc4OWM0MGI0MTk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "formatted-text___SkD_K"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "formatted-text___SkD_K", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Titling Gothic FB Compressed Medium\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 60, 
+            "height": 72, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "CONTACT US", 
+            "type": "", 
+            "value": "", 
+            "width": 245, 
+            "x": 248, 
+            "xPercent": 12.916666666666668, 
+            "y": 158, 
+            "yPercent": 9.239766081871345
+        }, 
+        "location": {
+            "x": 248, 
+            "y": 158
+        }, 
+        "size": {
+            "height": 72, 
+            "width": 245
+        }, 
+        "tag_name": "span", 
+        "text": "CONTACT US"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "39d21700a218486d64ca71d5417d3d98", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "CONTACT US", 
+    "transformed": true, 
+    "width": 245, 
+    "x": 248, 
+    "y": 158
+}

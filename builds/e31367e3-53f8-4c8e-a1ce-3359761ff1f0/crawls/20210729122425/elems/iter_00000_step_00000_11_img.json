@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "YRnyuEXOYzHpA9z2SyLCTw==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "img_X1433_Y55_W24_H24", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "user-icon", 
+                "src": "//images.ctfassets.net/drib7o8rcbyf/gDwge6i41c7nZPZ8vx8wH/135e514dee58d0e22c91e22e6e05f7e6/user-icon.png"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 24, 
+            "x": 1433, 
+            "xPercent": 74.638671875, 
+            "y": 55, 
+            "yPercent": 0.8047505502567865
+        }, 
+        "location": {
+            "x": 1433, 
+            "y": 55
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 24
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 24, 
+    "x": 1433, 
+    "y": 55
+}

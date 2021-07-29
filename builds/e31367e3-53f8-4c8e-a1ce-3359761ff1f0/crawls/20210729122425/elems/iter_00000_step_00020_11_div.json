@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ALBF9zT73Y6YVAD1UvDqCA==\n", 
+    "height": 354, 
+    "hier_level": 0, 
+    "human_hash": "div_X236_Y94_W1448_H354", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "container"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "container", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 354, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "106 Clubs", 
+            "type": "", 
+            "value": "", 
+            "width": 1448, 
+            "x": 236, 
+            "xPercent": 12.291666666666666, 
+            "y": 94, 
+            "yPercent": 1.7749244712990937
+        }, 
+        "location": {
+            "x": 236, 
+            "y": 94
+        }, 
+        "size": {
+            "height": 354, 
+            "width": 1448
+        }, 
+        "tag_name": "div", 
+        "text": "106 Clubs"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "106 Clubs", 
+    "transformed": true, 
+    "width": 1448, 
+    "x": 236, 
+    "y": 94
+}

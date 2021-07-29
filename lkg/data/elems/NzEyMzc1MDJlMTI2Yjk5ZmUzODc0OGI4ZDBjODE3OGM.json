@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "W91s3WlE1A6S+cs6UwMOiA==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "a_X1572_Y49_W100_H36", 
+    "human_readable": "a_1572_49_100_36_a_ffff000000000000000030703ffc2fbc3ffc3f7c00000000000000000000ffff_665bc1bf48f417e8df0dcd6e484b1252", 
+    "image_path": "NzEyMzc1MDJlMTI2Yjk5ZmUzODc0OGI4ZDBjODE3OGM.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "ctaBordered___sOavu", 
+                "href": "#", 
+                "role": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "ctaBordered___sOavu", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 36, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Claim Offer", 
+            "type": "", 
+            "value": "", 
+            "width": 100, 
+            "x": 1572, 
+            "xPercent": 81.87174479166667, 
+            "y": 49, 
+            "yPercent": 0.7116654438738078
+        }, 
+        "location": {
+            "x": 1572, 
+            "y": 49
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 100
+        }, 
+        "tag_name": "a", 
+        "text": "Claim Offer"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "285c2a879cbf7e46d3b8ec034a051a04", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Claim Offer", 
+    "transformed": true, 
+    "width": 100, 
+    "x": 1572, 
+    "y": 49
+}

@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ysuWPBu7WyjP08omt7d40g==\n", 
+    "height": 37, 
+    "hier_level": 0, 
+    "human_hash": "a_X1105_Y776_W208_H37", 
+    "human_readable": "a_1105_776_208_37_a_ffffffffffffffffffff99ab8003800380038083ffffffffffffffffffffffff_69bba6da614b1f8c9e375b095d623b6e", 
+    "image_path": "NDk1NmRiYjhkMzRhMDM5Mjg3OTkzYjRmMzNmNTI0ODM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-link active", 
+                "href": "https://www.equinox.com/privacy", 
+                "role": "listitem", 
+                "title": "Privacy Policy - Updated"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(115, 115, 115)", 
+            "cssClass": "nav-link active", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 37, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Privacy Policy - Updated", 
+            "type": "", 
+            "value": "", 
+            "width": 208, 
+            "x": 1105, 
+            "xPercent": 57.569986979166664, 
+            "y": 776, 
+            "yPercent": 8.948536191793453
+        }, 
+        "location": {
+            "x": 1105, 
+            "y": 776
+        }, 
+        "size": {
+            "height": 37, 
+            "width": 208
+        }, 
+        "tag_name": "a", 
+        "text": "Privacy Policy - Updated"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "59ce5b745dc608bfbf3e0d28a1ef5a0e", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Privacy Policy - Updated", 
+    "transformed": true, 
+    "width": 208, 
+    "x": 1105, 
+    "y": 776
+}

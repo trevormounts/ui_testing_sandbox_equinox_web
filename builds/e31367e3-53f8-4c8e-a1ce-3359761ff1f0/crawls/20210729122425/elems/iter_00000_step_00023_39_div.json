@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ylu+w8DFwB3u8H2HdTY7Hw==\n", 
+    "height": 96, 
+    "hier_level": 0, 
+    "human_hash": "div_X236_Y107_W1448_H96", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "undefined whiteTheme___3Y13u false"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "undefined whiteTheme___3Y13u false", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 96, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Explore More Clubs", 
+            "type": "", 
+            "value": "", 
+            "width": 1448, 
+            "x": 236, 
+            "xPercent": 12.291666666666666, 
+            "y": 107, 
+            "yPercent": 1.2376094974642693
+        }, 
+        "location": {
+            "x": 236, 
+            "y": 107
+        }, 
+        "size": {
+            "height": 96, 
+            "width": 1448
+        }, 
+        "tag_name": "div", 
+        "text": "Explore More Clubs"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Explore More Clubs", 
+    "transformed": true, 
+    "width": 1448, 
+    "x": 236, 
+    "y": 107
+}

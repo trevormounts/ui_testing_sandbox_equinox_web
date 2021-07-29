@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "lVuJ76U02MhRNDnaDFuoXA==\n", 
+    "height": 58, 
+    "hier_level": 0, 
+    "human_hash": "div_X1244_Y724_W429_H58", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "moduleEditorialGrid2Column__ctaContainer___1EYKf"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(153, 153, 153)", 
+            "cssClass": "moduleEditorialGrid2Column__ctaContainer___1EYKf", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 58, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Explore Classes", 
+            "type": "", 
+            "value": "", 
+            "width": 429, 
+            "x": 1244, 
+            "xPercent": 64.765625, 
+            "y": 724, 
+            "yPercent": 10.622019442406456
+        }, 
+        "location": {
+            "x": 1244, 
+            "y": 724
+        }, 
+        "size": {
+            "height": 58, 
+            "width": 429
+        }, 
+        "tag_name": "div", 
+        "text": "Explore Classes"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Explore Classes", 
+    "transformed": true, 
+    "width": 429, 
+    "x": 1244, 
+    "y": 724
+}
