@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "zKNz2zDiK88dcwv5GgjzuQ==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "span_X864_Y56_W117_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Personal Training", 
+            "type": "", 
+            "value": "", 
+            "width": 117, 
+            "x": 864, 
+            "xPercent": 45.013020833333336, 
+            "y": 56, 
+            "yPercent": 0.6072210065645514
+        }, 
+        "location": {
+            "x": 864, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 117
+        }, 
+        "tag_name": "span", 
+        "text": "Personal Training"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Personal Training", 
+    "transformed": true, 
+    "width": 117, 
+    "x": 864, 
+    "y": 56
+}

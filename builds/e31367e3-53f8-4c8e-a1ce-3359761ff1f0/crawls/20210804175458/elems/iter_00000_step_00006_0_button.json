@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "aL7Y5fP4PpVwSKSmXsonfA==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "button_X405_Y600_W280_H52", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "Next", 
+                "class": "cta__large___2mEJb cta___rDgZH animateEntered___1oExK", 
+                "data-adobe": "joinSubmitStep1", 
+                "data-testid": "primary-cta", 
+                "disabled": "", 
+                "title": "Next"
+            }, 
+            "background-color": "rgb(250, 250, 250)", 
+            "class": "button", 
+            "color": "rgb(153, 153, 153)", 
+            "cssClass": "cta__large___2mEJb cta___rDgZH animateEntered___1oExK", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 52, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Next", 
+            "type": "", 
+            "value": "", 
+            "width": 280, 
+            "x": 405, 
+            "xPercent": 21.067708333333332, 
+            "y": 600, 
+            "yPercent": 60.81230983772819
+        }, 
+        "location": {
+            "x": 405, 
+            "y": 600
+        }, 
+        "size": {
+            "height": 52, 
+            "width": 280
+        }, 
+        "tag_name": "button", 
+        "text": "Next"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Next", 
+    "transformed": true, 
+    "width": 280, 
+    "x": 405, 
+    "y": 600
+}

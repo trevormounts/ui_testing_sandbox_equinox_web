@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "i", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "KMuyeWDWCbRxNdHgG9HFUA==\n", 
+    "height": 26, 
+    "hier_level": 0, 
+    "human_hash": "i_X873_Y494_W23_H26", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "fab fa-facebook-square"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "i", 
+            "color": "rgb(0, 123, 255)", 
+            "cssClass": "fab fa-facebook-square", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Font Awesome 5 Brands\"", 
+            "font-weight": "400", 
+            "fontSize": 26, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "i", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 23, 
+            "x": 873, 
+            "xPercent": 45.4931640625, 
+            "y": 494, 
+            "yPercent": 51.619644723092996
+        }, 
+        "location": {
+            "x": 873, 
+            "y": 494
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 23
+        }, 
+        "tag_name": "i", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "i", 
+    "text": "", 
+    "transformed": true, 
+    "width": 23, 
+    "x": 873, 
+    "y": 494
+}

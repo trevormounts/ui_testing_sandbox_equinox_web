@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "55B5GjmjcM3vbQeZHMdEnA==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "a_X1497_Y2_W85_H36", 
+    "human_readable": "a_1497_2_85_36_a_0000000000000000000000001ff81ff81ffc1ff8000000000000000000000000_d06664642774f171a3bc68306ded943f", 
+    "image_path": "ZTVmMjI0MTVmOGZiYjA3MzI0MTg5OGY4MWMwNmRkYzY.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "link ", 
+                "data-section": "true", 
+                "href": "#", 
+                "id": "46XVgZ12PMnUzKgrfNpw76", 
+                "tabindex": "7"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "link ", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 36, 
+            "identifier": "46XVgZ12PMnUzKgrfNpw76", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Studios", 
+            "type": "", 
+            "value": "", 
+            "width": 85, 
+            "x": 1497, 
+            "xPercent": 77.97281901041667, 
+            "y": 2, 
+            "yPercent": 0.02871912693854107
+        }, 
+        "location": {
+            "x": 1497, 
+            "y": 2
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 85
+        }, 
+        "tag_name": "a", 
+        "text": "Studios"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c7fd27fa90716639a64439709f6a20a6", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Studios", 
+    "transformed": true, 
+    "width": 85, 
+    "x": 1497, 
+    "y": 2
+}

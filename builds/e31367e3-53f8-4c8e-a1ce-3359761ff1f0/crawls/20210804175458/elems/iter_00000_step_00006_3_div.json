@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "88WHTzbxk+mdGwk6eJdDFA==\n", 
+    "height": 218, 
+    "hier_level": 0, 
+    "human_hash": "div_X393_Y332_W536_H218", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col-sm-16"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "col-sm-16", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 218, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Select a club to continueselect club", 
+            "type": "", 
+            "value": "", 
+            "width": 536, 
+            "x": 393, 
+            "xPercent": 20.442708333333336, 
+            "y": 332, 
+            "yPercent": 33.67139959432049
+        }, 
+        "location": {
+            "x": 393, 
+            "y": 332
+        }, 
+        "size": {
+            "height": 218, 
+            "width": 536
+        }, 
+        "tag_name": "div", 
+        "text": "Select a club to continueselect club"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Select a club to continueselect club", 
+    "transformed": true, 
+    "width": 536, 
+    "x": 393, 
+    "y": 332
+}

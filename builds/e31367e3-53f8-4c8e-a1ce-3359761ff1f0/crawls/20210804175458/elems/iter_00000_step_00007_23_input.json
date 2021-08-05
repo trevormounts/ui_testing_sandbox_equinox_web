@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "D5v8P3WNNCKyz6AomVIE8g==\n", 
+    "height": 55, 
+    "hier_level": 0, 
+    "human_hash": "input_X572_Y338_W777_H55", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "btn submit-btn", 
+                "type": "submit", 
+                "value": "Log In"
+            }, 
+            "background-color": "rgb(0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "btn submit-btn", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "GraphikLight", 
+            "font-weight": "700", 
+            "fontSize": 14, 
+            "height": 55, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "submit", 
+            "value": "Log In", 
+            "width": 777, 
+            "x": 572, 
+            "xPercent": 29.765625, 
+            "y": 338, 
+            "yPercent": 35.318704284221525
+        }, 
+        "location": {
+            "x": 572, 
+            "y": 338
+        }, 
+        "size": {
+            "height": 55, 
+            "width": 777
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "Log In", 
+    "transformed": true, 
+    "width": 777, 
+    "x": 572, 
+    "y": 338
+}

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "q1wekALiw4xs1JQkDHoKSw==\n", 
+    "height": 27, 
+    "hier_level": 0, 
+    "human_hash": "a_X235_Y53_W131_H27", 
+    "human_readable": "a_235_53_131_27_a_0000000000000000d7fadffafffaff7aff7edffed7fb540a1800000000000000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MGRjOWRmZTIyMmU3MTk2ZjdlOWUwNGEzNzhiMDNjODQ.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "brandLogo___2Go0n", 
+                "href": "/", 
+                "title": "Equinox"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "brandLogo___2Go0n", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 131, 
+            "x": 235, 
+            "xPercent": 12.213541666666666, 
+            "y": 53, 
+            "yPercent": 0.7610568638713383
+        }, 
+        "location": {
+            "x": 235, 
+            "y": 53
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 131
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c7fd27fa90716639a64439709f6a20a6", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 131, 
+    "x": 235, 
+    "y": 53
+}

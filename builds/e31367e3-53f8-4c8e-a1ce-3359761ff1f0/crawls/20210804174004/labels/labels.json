@@ -1,0 +1,68 @@
+{
+    "elems": {
+        "iter_00000_step_00000_0_button.png": [
+            "btn_claim_offer"
+        ], 
+        "iter_00000_step_00000_12_a.png": [
+            "mnu_pilates"
+        ], 
+        "iter_00000_step_00000_14_a.png": [
+            "mnu_classes"
+        ], 
+        "iter_00000_step_00000_17_img.png": [
+            "icn_equinox_home"
+        ], 
+        "iter_00000_step_00000_19_h1.png": [
+            "ttl_welcome_forward"
+        ], 
+        "iter_00000_step_00000_24_a.png": [
+            "mnu_hotels"
+        ], 
+        "iter_00000_step_00000_26_a.png": [
+            "mnu_join_online"
+        ], 
+        "iter_00000_step_00000_27_a.png": [
+            "mnu_equinox_alumni"
+        ], 
+        "iter_00000_step_00000_32_button.png": [
+            "btn_chat_with_us"
+        ], 
+        "iter_00000_step_00000_33_a.png": [
+            "mnu_shop"
+        ], 
+        "iter_00000_step_00000_40_a.png": [
+            "mnu_locations"
+        ], 
+        "iter_00000_step_00000_41_a.png": [
+            "mnu_clubs"
+        ], 
+        "iter_00000_step_00000_43_a.png": [
+            "mnu_personal_training"
+        ], 
+        "iter_00000_step_00000_44_a.png": [
+            "mnu_spa"
+        ], 
+        "iter_00000_step_00000_47_a.png": [
+            "mnu_claim_offer"
+        ], 
+        "iter_00000_step_00000_4_a.png": [
+            "icn_equinox_home"
+        ], 
+        "iter_00000_step_00000_53_a.png": [
+            "lnk_claim_offer"
+        ], 
+        "iter_00000_step_00000_55_a.png": [
+            "mnu_studios"
+        ], 
+        "iter_00000_step_00000_56_img.png": [
+            "icn_profile"
+        ], 
+        "iter_00000_step_00000_5_a.png": [
+            "icn_user_profile"
+        ], 
+        "iter_00000_step_00000_9_a.png": [
+            "mnu_member_benefits"
+        ]
+    }, 
+    "screens": {}
+}

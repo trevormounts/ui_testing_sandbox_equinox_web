@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ZqxlxaYdkv4A5+ZpGBDQzA==\n", 
+    "height": 62, 
+    "hier_level": 0, 
+    "human_hash": "img_X552_Y56_W225_H62", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "logo", 
+                "class": "nostretch logo", 
+                "src": "https://media.cdn-equinox.com/website/Images/Logo/EquinoxLogo.png"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(20, 24, 27)", 
+            "cssClass": "nostretch logo", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "GraphikLight", 
+            "font-weight": "500", 
+            "fontSize": 27.2, 
+            "height": 62, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 225, 
+            "x": 552, 
+            "xPercent": 28.723958333333332, 
+            "y": 56, 
+            "yPercent": 5.83365987460815
+        }, 
+        "location": {
+            "x": 552, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 62, 
+            "width": 225
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 225, 
+    "x": 552, 
+    "y": 56
+}

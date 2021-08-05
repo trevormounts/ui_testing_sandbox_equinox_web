@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "DvY6HLpBPaWz4HfK7JGnAw==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "a_X977_Y409_W154_H24", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "forgot forgot-right-link", 
+                "href": "https://www.equinox.com/help/forgotuser"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(85, 85, 85)", 
+            "cssClass": "forgot forgot-right-link", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "GraphikRegular", 
+            "font-weight": "400", 
+            "fontSize": 18.6667, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Forgot Username", 
+            "type": "", 
+            "value": "", 
+            "width": 154, 
+            "x": 977, 
+            "xPercent": 50.9033203125, 
+            "y": 409, 
+            "yPercent": 42.73772204806687
+        }, 
+        "location": {
+            "x": 977, 
+            "y": 409
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 154
+        }, 
+        "tag_name": "a", 
+        "text": "Forgot Username"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Forgot Username", 
+    "transformed": true, 
+    "width": 154, 
+    "x": 977, 
+    "y": 409
+}

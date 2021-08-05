@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "fvhEX1nPUGum4XbBkZtAdw==\n", 
+    "height": 14, 
+    "hier_level": 0, 
+    "human_hash": "span_X529_Y619_W31_H14", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(153, 153, 153)", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Next", 
+            "type": "", 
+            "value": "", 
+            "width": 31, 
+            "x": 529, 
+            "xPercent": 27.553710937499996, 
+            "y": 619, 
+            "yPercent": 62.789997464503045
+        }, 
+        "location": {
+            "x": 529, 
+            "y": 619
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 31
+        }, 
+        "tag_name": "span", 
+        "text": "Next"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Next", 
+    "transformed": true, 
+    "width": 31, 
+    "x": 529, 
+    "y": 619
+}

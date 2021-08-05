@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "O17Jc5QX6O8hUnQaahM2lg==\n", 
+    "height": 14, 
+    "hier_level": 0, 
+    "human_hash": "span_X648_Y347_W73_H14", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(117, 117, 117)", 
+            "domLevel": 20, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "select club", 
+            "type": "", 
+            "value": "", 
+            "width": 73, 
+            "x": 648, 
+            "xPercent": 33.770345052083336, 
+            "y": 347, 
+            "yPercent": 35.19269776876268
+        }, 
+        "location": {
+            "x": 648, 
+            "y": 347
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 73
+        }, 
+        "tag_name": "span", 
+        "text": "select club"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "select club", 
+    "transformed": true, 
+    "width": 73, 
+    "x": 648, 
+    "y": 347
+}

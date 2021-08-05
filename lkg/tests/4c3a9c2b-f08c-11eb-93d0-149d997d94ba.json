@@ -75,7 +75,9 @@
                 "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "all"
+        ], 
         "temp_id": "4c3a9c2b-f08c-11eb-93d0-149d997d94ba", 
         "title": "Test 5 Steps"
     }

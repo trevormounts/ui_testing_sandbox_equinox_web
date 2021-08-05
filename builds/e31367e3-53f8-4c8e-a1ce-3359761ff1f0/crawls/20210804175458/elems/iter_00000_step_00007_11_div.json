@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "TLOvHGZ4DeEEHkWrJDrxpw==\n", 
+    "height": 26, 
+    "hier_level": 0, 
+    "human_hash": "div_X572_Y494_W777_H26", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "social-login-wrapper"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 37, 41)", 
+            "cssClass": "social-login-wrapper", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "-apple-system, system-ui, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Log in with Facebook", 
+            "type": "", 
+            "value": "", 
+            "width": 777, 
+            "x": 572, 
+            "xPercent": 29.765625, 
+            "y": 494, 
+            "yPercent": 51.619644723092996
+        }, 
+        "location": {
+            "x": 572, 
+            "y": 494
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 777
+        }, 
+        "tag_name": "div", 
+        "text": "Log in with Facebook"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Log in with Facebook", 
+    "transformed": true, 
+    "width": 777, 
+    "x": 572, 
+    "y": 494
+}

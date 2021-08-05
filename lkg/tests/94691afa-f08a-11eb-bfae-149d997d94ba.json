@@ -2,7 +2,6 @@
     "Test 1 Step": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "Test 1 Step", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -19,7 +18,9 @@
                 "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "all"
+        ], 
         "temp_id": "94691afa-f08a-11eb-bfae-149d997d94ba", 
         "title": "Test 1 Step"
     }

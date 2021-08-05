@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Aa47to7Oy3Kmdv9QcySGhg==\n", 
+    "height": 307, 
+    "hier_level": 0, 
+    "human_hash": "span_X229_Y263_W372_H307", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "formatted-text___SkD_K"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "formatted-text___SkD_K", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Titling Gothic FB Compressed Medium\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 96, 
+            "height": 307, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "PERSONAL\nTRAINING\nAT EQUINOX", 
+            "type": "", 
+            "value": "", 
+            "width": 372, 
+            "x": 229, 
+            "xPercent": 11.901041666666666, 
+            "y": 263, 
+            "yPercent": 2.876948851203501
+        }, 
+        "location": {
+            "x": 229, 
+            "y": 263
+        }, 
+        "size": {
+            "height": 307, 
+            "width": 372
+        }, 
+        "tag_name": "span", 
+        "text": "PERSONAL\nTRAINING\nAT EQUINOX"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "PERSONAL\nTRAINING\nAT EQUINOX", 
+    "transformed": true, 
+    "width": 372, 
+    "x": 229, 
+    "y": 263
+}

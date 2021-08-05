@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "qX4f74/yLHjipgIGKeqa7g==\n", 
+    "height": 21, 
+    "hier_level": 0, 
+    "human_hash": "li_X796_Y518_W415_H21", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 21, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Equinox Chestnut Hill", 
+            "type": "", 
+            "value": 0, 
+            "width": 415, 
+            "x": 796, 
+            "xPercent": 41.432291666666664, 
+            "y": 518, 
+            "yPercent": 9.780966767371602
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 518
+        }, 
+        "size": {
+            "height": 21, 
+            "width": 415
+        }, 
+        "tag_name": "li", 
+        "text": "Equinox Chestnut Hill"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Equinox Chestnut Hill", 
+    "transformed": true, 
+    "width": 415, 
+    "x": 796, 
+    "y": 518
+}

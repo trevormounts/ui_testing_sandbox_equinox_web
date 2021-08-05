@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "zHJYzD4z0csMCZNYVHPqbA==\n", 
+    "height": 27, 
+    "hier_level": 0, 
+    "human_hash": "span_X668_Y100_W438_H27", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "notificationCopy___FTZp9", 
+                "style": "color:#000000"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "notificationCopy___FTZp9", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 18, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Join Equinox today for your exclusive August\u00a0offer.", 
+            "type": "", 
+            "value": "", 
+            "width": 438, 
+            "x": 668, 
+            "xPercent": 34.778645833333336, 
+            "y": 100, 
+            "yPercent": 1.4359563469270535
+        }, 
+        "location": {
+            "x": 668, 
+            "y": 100
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 438
+        }, 
+        "tag_name": "span", 
+        "text": "Join Equinox today for your exclusive August\u00a0offer."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Join Equinox today for your exclusive August\u00a0offer.", 
+    "transformed": true, 
+    "width": 438, 
+    "x": 668, 
+    "y": 100
+}

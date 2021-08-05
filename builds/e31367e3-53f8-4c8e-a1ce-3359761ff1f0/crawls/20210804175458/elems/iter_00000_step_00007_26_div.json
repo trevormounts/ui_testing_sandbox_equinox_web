@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "jqtFQJ+xmaG7TcOT4dN7lQ==\n", 
+    "height": 13, 
+    "hier_level": 0, 
+    "human_hash": "div_X896_Y501_W150_H13", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "align-self-center pl-2"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 123, 255)", 
+            "cssClass": "align-self-center pl-2", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "GraphikRegular", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 13, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Log in with Facebook", 
+            "type": "", 
+            "value": "", 
+            "width": 150, 
+            "x": 896, 
+            "xPercent": 46.678059895833336, 
+            "y": 501, 
+            "yPercent": 52.29885057471264
+        }, 
+        "location": {
+            "x": 896, 
+            "y": 501
+        }, 
+        "size": {
+            "height": 13, 
+            "width": 150
+        }, 
+        "tag_name": "div", 
+        "text": "Log in with Facebook"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Log in with Facebook", 
+    "transformed": true, 
+    "width": 150, 
+    "x": 896, 
+    "y": 501
+}

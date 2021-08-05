@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "kL1InQ3kntI5AklLdkhLng==\n", 
+    "height": 192, 
+    "hier_level": 0, 
+    "human_hash": "div_X405_Y332_W512_H192", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "no-plans___23oxs"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "no-plans___23oxs", 
+            "domLevel": 18, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 20, 
+            "height": 192, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Select a club to continueselect club", 
+            "type": "", 
+            "value": "", 
+            "width": 512, 
+            "x": 405, 
+            "xPercent": 21.067708333333332, 
+            "y": 332, 
+            "yPercent": 33.67139959432049
+        }, 
+        "location": {
+            "x": 405, 
+            "y": 332
+        }, 
+        "size": {
+            "height": 192, 
+            "width": 512
+        }, 
+        "tag_name": "div", 
+        "text": "Select a club to continueselect club"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Select a club to continueselect club", 
+    "transformed": true, 
+    "width": 512, 
+    "x": 405, 
+    "y": 332
+}

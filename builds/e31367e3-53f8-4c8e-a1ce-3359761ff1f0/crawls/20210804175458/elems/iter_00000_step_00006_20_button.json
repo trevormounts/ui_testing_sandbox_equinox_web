@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "2vybZhAAdePwoYDz5uyT8A==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "button_X648_Y334_W73_H40", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-label": "select club", 
+                "class": "cta-underline___14qi1", 
+                "title": "select club", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "cta-underline___14qi1", 
+            "domLevel": 19, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "select club", 
+            "type": "button", 
+            "value": "", 
+            "width": 73, 
+            "x": 648, 
+            "xPercent": 33.770345052083336, 
+            "y": 334, 
+            "yPercent": 33.874239350912774
+        }, 
+        "location": {
+            "x": 648, 
+            "y": 334
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 73
+        }, 
+        "tag_name": "button", 
+        "text": "select club"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "select club", 
+    "transformed": true, 
+    "width": 73, 
+    "x": 648, 
+    "y": 334
+}

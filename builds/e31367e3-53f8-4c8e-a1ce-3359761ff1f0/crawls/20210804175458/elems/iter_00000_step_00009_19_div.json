@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "SGRpyIA/I6mm+kL8evthYg==\n", 
+    "height": 233, 
+    "hier_level": 0, 
+    "human_hash": "div_X781_Y481_W430_H233", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "offset-lg-1 col-lg-5 d-none d-lg-block p-0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "offset-lg-1 col-lg-5 d-none d-lg-block p-0", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 233, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Featured ClubsEquinox Chestnut HillEquinox Sports Club Boston", 
+            "type": "", 
+            "value": "", 
+            "width": 430, 
+            "x": 781, 
+            "xPercent": 40.651041666666664, 
+            "y": 481, 
+            "yPercent": 9.082326283987916
+        }, 
+        "location": {
+            "x": 781, 
+            "y": 481
+        }, 
+        "size": {
+            "height": 233, 
+            "width": 430
+        }, 
+        "tag_name": "div", 
+        "text": "Featured ClubsEquinox Chestnut HillEquinox Sports Club Boston"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Featured ClubsEquinox Chestnut HillEquinox Sports Club Boston", 
+    "transformed": true, 
+    "width": 430, 
+    "x": 781, 
+    "y": 481
+}
