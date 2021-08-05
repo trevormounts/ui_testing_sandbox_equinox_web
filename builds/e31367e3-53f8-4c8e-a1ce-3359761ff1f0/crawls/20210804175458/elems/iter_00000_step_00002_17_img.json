@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "4Cu9ShaiiAQZzz+iFjXlWQ==\n", 
+    "height": 15, 
+    "hier_level": 0, 
+    "human_hash": "img_X242_Y60_W123_H15", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "equinox-logo", 
+                "src": "//images.ctfassets.net/drib7o8rcbyf/6w2Y64NVtYvHGBs8vF9a3W/64360873a9e45c623222355b69011fa0/equinox-logo.png"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 15, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 123, 
+            "x": 242, 
+            "xPercent": 12.578125000000002, 
+            "y": 60, 
+            "yPercent": 0.8593301263641585
+        }, 
+        "location": {
+            "x": 242, 
+            "y": 60
+        }, 
+        "size": {
+            "height": 15, 
+            "width": 123
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 123, 
+    "x": 242, 
+    "y": 60
+}

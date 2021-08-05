@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "SNKjoN/ZITZ3TqlWnO903w==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "a_X1118_Y56_W28_H22", 
+    "human_readable": "a_1118_56_28_22_a_0000000000003000780043dc737e3b6e4f7e4b767bde03000300000000000000_522f1c95c4c282b722b546a9433624a2", 
+    "image_path": "M2E0NzM4Nzk4OGVhM2MxYTdmMmM4NWUwZTMxODY5ZjE.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "href": "/spa"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Spa", 
+            "type": "", 
+            "value": "", 
+            "width": 28, 
+            "x": 1118, 
+            "xPercent": 58.225911458333336, 
+            "y": 56, 
+            "yPercent": 0.7969557725445147
+        }, 
+        "location": {
+            "x": 1118, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 28
+        }, 
+        "tag_name": "a", 
+        "text": "Spa"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c7fd27fa90716639a64439709f6a20a6", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Spa", 
+    "transformed": true, 
+    "width": 28, 
+    "x": 1118, 
+    "y": 56
+}

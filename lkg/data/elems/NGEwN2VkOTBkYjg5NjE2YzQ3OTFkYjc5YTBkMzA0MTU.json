@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "+QfKVh+uOnFVfzo2rPSLbg==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "a_X1063_Y56_W37_H22", 
+    "human_readable": "a_1063_56_37_22_a_0000000000006c007c00ce6e6fff3fbb9fbbdffb7f6e00080008000000000000_d5d7c7ca8cf1a6a118c51745dc3c129b", 
+    "image_path": "NGEwN2VkOTBkYjg5NjE2YzQ3OTFkYjc5YTBkMzA0MTU.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "href": "https://equinoxtheshop.com/?icmp=topnav-shop"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Shop", 
+            "type": "", 
+            "value": "", 
+            "width": 37, 
+            "x": 1063, 
+            "xPercent": 55.358072916666664, 
+            "y": 56, 
+            "yPercent": 0.7969557725445147
+        }, 
+        "location": {
+            "x": 1063, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 37
+        }, 
+        "tag_name": "a", 
+        "text": "Shop"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c7fd27fa90716639a64439709f6a20a6", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Shop", 
+    "transformed": true, 
+    "width": 37, 
+    "x": 1063, 
+    "y": 56
+}

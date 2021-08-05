@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "hV8o0SqQS134VPmdIay54w==\n", 
+    "height": 29, 
+    "hier_level": 0, 
+    "human_hash": "a_X1105_Y99_W132_H29", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "notificationCopy___FTZp9 notificationCopyLink___38wFb", 
+                "href": "/promotion/personal-training?icmp=pt-banner"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "notificationCopy___FTZp9 notificationCopyLink___38wFb", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 18, 
+            "height": 29, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "CLAIM OFFER", 
+            "type": "", 
+            "value": "", 
+            "width": 132, 
+            "x": 1105, 
+            "xPercent": 57.56510416666667, 
+            "y": 99, 
+            "yPercent": 1.0831509846827134
+        }, 
+        "location": {
+            "x": 1105, 
+            "y": 99
+        }, 
+        "size": {
+            "height": 29, 
+            "width": 132
+        }, 
+        "tag_name": "a", 
+        "text": "CLAIM OFFER"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "CLAIM OFFER", 
+    "transformed": true, 
+    "width": 132, 
+    "x": 1105, 
+    "y": 99
+}

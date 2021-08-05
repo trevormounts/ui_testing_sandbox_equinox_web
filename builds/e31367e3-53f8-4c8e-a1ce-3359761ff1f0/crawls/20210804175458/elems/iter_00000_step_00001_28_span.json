@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "gSMn0w8WRCKfjENeNIPYRw==\n", 
+    "height": 211, 
+    "hier_level": 0, 
+    "human_hash": "span_X788_Y263_W329_H211", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "formatted-text___SkD_K"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "formatted-text___SkD_K", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Titling Gothic FB Compressed Medium\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 96, 
+            "height": 211, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "WELCOME\nFORWARD", 
+            "type": "", 
+            "value": "", 
+            "width": 329, 
+            "x": 788, 
+            "xPercent": 41.051432291666664, 
+            "y": 263, 
+            "yPercent": 3.775892087880529
+        }, 
+        "location": {
+            "x": 788, 
+            "y": 263
+        }, 
+        "size": {
+            "height": 211, 
+            "width": 329
+        }, 
+        "tag_name": "span", 
+        "text": "WELCOME\nFORWARD"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "WELCOME\nFORWARD", 
+    "transformed": true, 
+    "width": 329, 
+    "x": 788, 
+    "y": 263
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "N2K5manKc6gKyBu8lQKLQw==\n", 
+    "height": 29, 
+    "hier_level": 0, 
+    "human_hash": "a_X1422_Y53_W32_H29", 
+    "human_readable": "a_1422_53_32_29_a_000003c00ff01818100833cc324c33cc318c33cc37ec1c380e7007e000000000_6fee144e1a5aa0579a225f99252f6f97", 
+    "image_path": "YzM3ZmVhODM3ZTFmOTI0NTMyZDUzOGQ3MmE0NGYwMzg.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": " loginLink___2WtV1", 
+                "href": "/auth/equinox_oauth2/redirect?returnUrl=%2F"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": " loginLink___2WtV1", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 29, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Login", 
+            "type": "", 
+            "value": "", 
+            "width": 32, 
+            "x": 1422, 
+            "xPercent": 74.03971354166666, 
+            "y": 53, 
+            "yPercent": 0.7610568638713383
+        }, 
+        "location": {
+            "x": 1422, 
+            "y": 53
+        }, 
+        "size": {
+            "height": 29, 
+            "width": 32
+        }, 
+        "tag_name": "a", 
+        "text": "Login"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c7fd27fa90716639a64439709f6a20a6", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Login", 
+    "transformed": true, 
+    "width": 32, 
+    "x": 1422, 
+    "y": 53
+}

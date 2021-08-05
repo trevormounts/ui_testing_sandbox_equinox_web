@@ -1,0 +1,79 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Ld2oi1SxWV638DTw8JkRqg==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "a_X1382_Y2_W102_H36", 
+    "human_readable": "a_1382_2_102_36_a_0000000000000000000000003ffc3ffc3ffc3ffc000000000000000000000000_380034fc9bb86b15f4f85514c7356f87", 
+    "image_path": "MmMwYmQzNjJmYmJmMGIwNzA4MzI2N2FmNmRiNmZiYmY.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "link ", 
+                "data-section": "true", 
+                "href": "#", 
+                "id": "43ctEpnVyg47E7NCZHzmws", 
+                "tabindex": "3"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "link ", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 36, 
+            "identifier": "43ctEpnVyg47E7NCZHzmws", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Locations", 
+            "type": "", 
+            "value": "", 
+            "width": 102, 
+            "x": 1382, 
+            "xPercent": 71.96370442708333, 
+            "y": 2, 
+            "yPercent": 0.02871912693854107
+        }, 
+        "location": {
+            "x": 1382, 
+            "y": 2
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 102
+        }, 
+        "tag_name": "a", 
+        "text": "Locations"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c7fd27fa90716639a64439709f6a20a6", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Locations", 
+    "transformed": true, 
+    "width": 102, 
+    "x": 1382, 
+    "y": 2
+}

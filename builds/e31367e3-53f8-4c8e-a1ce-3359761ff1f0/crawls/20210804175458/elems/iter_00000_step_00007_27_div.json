@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "OvnLgUteqKR1gdE29eL+JQ==\n", 
+    "height": 957, 
+    "hier_level": 0, 
+    "human_hash": "div_X0_Y0_W1920_H957", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "content hotel-form", 
+                "style": " background-image: url('/img/black-backdrop.png');"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 37, 41)", 
+            "cssClass": "content hotel-form", 
+            "domLevel": 2, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "-apple-system, system-ui, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 957, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Log in to your Equinox account\n            \n            \n                \n                \n                    \n                        \n                            \n                            \n                            \n                            \n                                \n                                     Username doesn't\n                                    match\n                                \n                            \n                        \n                        \n                            \n                            \n                            \n                            \n                                \n                                     Password doesn't\n                                    match\n                                \n                            \n                        \n                        \n                            \n                        \n                        \n                            \n                                \n                                    Log in with Facebook\n                                \n                            \n                            \n                                \n                                    \n                                \n                            \n                            \n                                \n                                    Forgot your email\n                                    Forgot Password\n                                \n                            \n                                \n                                    Don't have an account yet? Click here to register.\n                                \n                        \n                        \n                            \n                                Forgot Password\n                                Forgot Username\n                            \n                            \n                                \n                                \n                                    or\n                                \n                                \n                            \n                            \n                                \n                                    \n                                    \n                                        Log in with Facebook\n                                    \n                                \n                            \n                            \n                                \n                                                                        \n                                \n                            \n                            \n                                    \n                                        Don't have an account yet? Click here to register.", 
+            "type": "", 
+            "value": "", 
+            "width": 1920, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 0, 
+            "yPercent": 0
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 0
+        }, 
+        "size": {
+            "height": 957, 
+            "width": 1920
+        }, 
+        "tag_name": "div", 
+        "text": "Log in to your Equinox account\n            \n            \n                \n                \n                    \n                        \n                            \n                            \n                            \n                            \n                                \n                                     Username doesn't\n                                    match\n                                \n                            \n                        \n                        \n                            \n                            \n                            \n                            \n                                \n                                     Password doesn't\n                                    match\n                                \n                            \n                        \n                        \n                            \n                        \n                        \n                            \n                                \n                                    Log in with Facebook\n                                \n                            \n                            \n                                \n                                    \n                                \n                            \n                            \n                                \n                                    Forgot your email\n                                    Forgot Password\n                                \n                            \n                                \n                                    Don't have an account yet? Click here to register.\n                                \n                        \n                        \n                            \n                                Forgot Password\n                                Forgot Username\n                            \n                            \n                                \n                                \n                                    or\n                                \n                                \n                            \n                            \n                                \n                                    \n                                    \n                                        Log in with Facebook\n                                    \n                                \n                            \n                            \n                                \n                                                                        \n                                \n                            \n                            \n                                    \n                                        Don't have an account yet? Click here to register."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Log in to your Equinox account\n            \n            \n                \n                \n                    \n                        \n                            \n                            \n                            \n                            \n                                \n                                     Username doesn't\n                                    match\n                                \n                            \n                        \n                        \n                            \n                            \n                            \n                            \n                                \n                                     Password doesn't\n                                    match\n                                \n                            \n                        \n                        \n                            \n                        \n                        \n                            \n                                \n                                    Log in with Facebook\n                                \n                            \n                            \n                                \n                                    \n                                \n                            \n                            \n                                \n                                    Forgot your email\n                                    Forgot Password\n                                \n                            \n                                \n                                    Don't have an account yet? Click here to register.\n                                \n                        \n                        \n                            \n                                Forgot Password\n                                Forgot Username\n                            \n                            \n                                \n                                \n                                    or\n                                \n                                \n                            \n                            \n                                \n                                    \n                                    \n                                        Log in with Facebook\n                                    \n                                \n                            \n                            \n                                \n                                                                        \n                                \n                            \n                            \n                                    \n                                        Don't have an account yet? Click here to register.", 
+    "transformed": true, 
+    "width": 1920, 
+    "x": 0, 
+    "y": 0
+}

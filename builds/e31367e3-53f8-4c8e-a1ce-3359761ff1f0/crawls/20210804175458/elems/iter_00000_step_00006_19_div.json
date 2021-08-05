@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Uri0gnu60jlIcjmN+5agEQ==\n", 
+    "height": 353, 
+    "hier_level": 0, 
+    "human_hash": "div_X1070_Y249_W361_H353", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col-sm-5"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "col-sm-5", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 353, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Join Equinox today for your exclusive August offer. Choose your club and enter your information to see your savings.", 
+            "type": "", 
+            "value": "", 
+            "width": 361, 
+            "x": 1070, 
+            "xPercent": 55.73079427083333, 
+            "y": 249, 
+            "yPercent": 25.207593813387426
+        }, 
+        "location": {
+            "x": 1070, 
+            "y": 249
+        }, 
+        "size": {
+            "height": 353, 
+            "width": 361
+        }, 
+        "tag_name": "div", 
+        "text": "Join Equinox today for your exclusive August offer. Choose your club and enter your information to see your savings."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Join Equinox today for your exclusive August offer. Choose your club and enter your information to see your savings.", 
+    "transformed": true, 
+    "width": 361, 
+    "x": 1070, 
+    "y": 249
+}

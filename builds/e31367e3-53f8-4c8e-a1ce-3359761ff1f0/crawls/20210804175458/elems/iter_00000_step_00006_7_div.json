@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "3+Da3Q7tMqHjIB8zjwButw==\n", 
+    "height": 590, 
+    "hier_level": 0, 
+    "human_hash": "div_X357_Y130_W1192_H590", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "container___bl7sd"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "container___bl7sd", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 590, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "CHOOSE YOUR MEMBERSHIP Select a club to continueselect clubNextJoin Equinox today for your exclusive August offer. Choose your club and enter your information to see your savings.", 
+            "type": "", 
+            "value": "", 
+            "width": 1192, 
+            "x": 357, 
+            "xPercent": 18.567708333333332, 
+            "y": 130, 
+            "yPercent": 13.184584178498987
+        }, 
+        "location": {
+            "x": 357, 
+            "y": 130
+        }, 
+        "size": {
+            "height": 590, 
+            "width": 1192
+        }, 
+        "tag_name": "div", 
+        "text": "CHOOSE YOUR MEMBERSHIP Select a club to continueselect clubNextJoin Equinox today for your exclusive August offer. Choose your club and enter your information to see your savings."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "CHOOSE YOUR MEMBERSHIP Select a club to continueselect clubNextJoin Equinox today for your exclusive August offer. Choose your club and enter your information to see your savings.", 
+    "transformed": true, 
+    "width": 1192, 
+    "x": 357, 
+    "y": 130
+}

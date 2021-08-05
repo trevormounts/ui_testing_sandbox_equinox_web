@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "MHXyOiORutKGtm7JVdQTeA==\n", 
+    "height": 14, 
+    "hier_level": 0, 
+    "human_hash": "a_X1472_Y60_W75_H14", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "data-testid": "join-flow-cta", 
+                "href": "/join/step1?icmp=topnav-join"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 14, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Join Online", 
+            "type": "", 
+            "value": "", 
+            "width": 75, 
+            "x": 1472, 
+            "xPercent": 76.64388020833334, 
+            "y": 60, 
+            "yPercent": 1.123489425981873
+        }, 
+        "location": {
+            "x": 1472, 
+            "y": 60
+        }, 
+        "size": {
+            "height": 14, 
+            "width": 75
+        }, 
+        "tag_name": "a", 
+        "text": "Join Online"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Join Online", 
+    "transformed": true, 
+    "width": 75, 
+    "x": 1472, 
+    "y": 60
+}

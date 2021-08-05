@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "nER2Jd74Z4ykFRPVrmfYmQ==\n", 
+    "height": 178, 
+    "hier_level": 0, 
+    "human_hash": "div_X369_Y130_W714_H178", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "col-sm-16 mb-4"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "col-sm-16 mb-4", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 178, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "CHOOSE YOUR MEMBERSHIP", 
+            "type": "", 
+            "value": "", 
+            "width": 714, 
+            "x": 369, 
+            "xPercent": 19.192708333333332, 
+            "y": 130, 
+            "yPercent": 13.184584178498987
+        }, 
+        "location": {
+            "x": 369, 
+            "y": 130
+        }, 
+        "size": {
+            "height": 178, 
+            "width": 714
+        }, 
+        "tag_name": "div", 
+        "text": "CHOOSE YOUR MEMBERSHIP"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "CHOOSE YOUR MEMBERSHIP", 
+    "transformed": true, 
+    "width": 714, 
+    "x": 369, 
+    "y": 130
+}

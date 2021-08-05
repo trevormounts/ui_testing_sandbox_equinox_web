@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "OEmxchlSXn9DB2IRQeto6g==\n", 
+    "height": 26, 
+    "hier_level": 0, 
+    "human_hash": "span_X873_Y494_W23_H26", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(0, 123, 255)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "GraphikRegular", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 23, 
+            "x": 873, 
+            "xPercent": 45.4931640625, 
+            "y": 494, 
+            "yPercent": 51.619644723092996
+        }, 
+        "location": {
+            "x": 873, 
+            "y": 494
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 23
+        }, 
+        "tag_name": "span", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "", 
+    "transformed": true, 
+    "width": 23, 
+    "x": 873, 
+    "y": 494
+}

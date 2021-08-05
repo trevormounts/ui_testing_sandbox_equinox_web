@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Nidpe8GovhWvRag6cpGtPg==\n", 
+    "height": 29, 
+    "hier_level": 0, 
+    "human_hash": "a_X1118_Y99_W106_H29", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "notificationCopy___FTZp9 notificationCopyLink___38wFb", 
+                "href": "/promotion/group-fitness?icmp=gf-banner"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "notificationCopy___FTZp9 notificationCopyLink___38wFb", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 18, 
+            "height": 29, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Try a Class", 
+            "type": "", 
+            "value": "", 
+            "width": 106, 
+            "x": 1118, 
+            "xPercent": 58.24951171875, 
+            "y": 99, 
+            "yPercent": 1.0781964713570027
+        }, 
+        "location": {
+            "x": 1118, 
+            "y": 99
+        }, 
+        "size": {
+            "height": 29, 
+            "width": 106
+        }, 
+        "tag_name": "a", 
+        "text": "Try a Class"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Try a Class", 
+    "transformed": true, 
+    "width": 106, 
+    "x": 1118, 
+    "y": 99
+}

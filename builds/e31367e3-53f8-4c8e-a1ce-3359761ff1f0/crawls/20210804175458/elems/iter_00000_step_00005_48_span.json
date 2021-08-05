@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "0OGi+IHUq7KRY/Lv+74kpQ==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "span_X1297_Y56_W106_H22", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Equinox Alumni", 
+            "type": "", 
+            "value": "", 
+            "width": 106, 
+            "x": 1297, 
+            "xPercent": 67.56184895833334, 
+            "y": 56, 
+            "yPercent": 0.6044434763668046
+        }, 
+        "location": {
+            "x": 1297, 
+            "y": 56
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 106
+        }, 
+        "tag_name": "span", 
+        "text": "Equinox Alumni"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Equinox Alumni", 
+    "transformed": true, 
+    "width": 106, 
+    "x": 1297, 
+    "y": 56
+}

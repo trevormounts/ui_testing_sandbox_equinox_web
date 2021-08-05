@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "yafRQImiIRYk/XWZAfrsGA==\n", 
+    "height": 36, 
+    "hier_level": 0, 
+    "human_hash": "a_X1595_Y2_W69_H36", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "link ", 
+                "data-section": "true", 
+                "href": "#", 
+                "id": "5eQBFk81yaNDbcHRXL6dpP", 
+                "tabindex": "9"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(117, 117, 117)", 
+            "cssClass": "link ", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 36, 
+            "identifier": "5eQBFk81yaNDbcHRXL6dpP", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Hotels", 
+            "type": "", 
+            "value": "", 
+            "width": 69, 
+            "x": 1595, 
+            "xPercent": 83.076171875, 
+            "y": 2, 
+            "yPercent": 0.0377643504531722
+        }, 
+        "location": {
+            "x": 1595, 
+            "y": 2
+        }, 
+        "size": {
+            "height": 36, 
+            "width": 69
+        }, 
+        "tag_name": "a", 
+        "text": "Hotels"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Hotels", 
+    "transformed": true, 
+    "width": 69, 
+    "x": 1595, 
+    "y": 2
+}

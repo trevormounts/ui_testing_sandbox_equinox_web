@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Jygd2H9NmtMjmoulUnMgew==\n", 
+    "height": 21, 
+    "hier_level": 0, 
+    "human_hash": "li_X796_Y816_W415_H21", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 21, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Equinox Bay Street", 
+            "type": "", 
+            "value": 0, 
+            "width": 415, 
+            "x": 796, 
+            "xPercent": 41.432291666666664, 
+            "y": 816, 
+            "yPercent": 15.407854984894259
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 816
+        }, 
+        "size": {
+            "height": 21, 
+            "width": 415
+        }, 
+        "tag_name": "li", 
+        "text": "Equinox Bay Street"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Equinox Bay Street", 
+    "transformed": true, 
+    "width": 415, 
+    "x": 796, 
+    "y": 816
+}

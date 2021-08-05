@@ -1,0 +1,1960 @@
+{
+    "e31367e3-53f8-4c8e-a1ce-3359761ff1f0": {
+        "pass": [
+            {
+                "carbon_log_file_path": "run-14195749.log", 
+                "crawl_directory": "test_runs/20210804182533", 
+                "created": "2021-08-04 18:25:55", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 0, 
+                "curr_sub_step": 0, 
+                "custom_data": [
+                    {
+                        "id": "browser_name", 
+                        "label": "Browser", 
+                        "value": "Chrome"
+                    }
+                ], 
+                "custom_hidden_data": [
+                    {
+                        "id": "test_case_name", 
+                        "label": "Original Test Case Name", 
+                        "value": "Test 1 Step"
+                    }
+                ], 
+                "description": "", 
+                "failures": {}, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:0sub_step:0  found:mnu_classes"
+                ], 
+                "note": "", 
+                "original_title": "Test 1 Step", 
+                "result": "pass", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "HxaUXFGjuXxXL4nxkGXFvw==\n", 
+                                "height": 22, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X794_Y56_W53_H22", 
+                                "human_readable": "a_794_56_53_22_a_0000000000007800f8009ffe9ffe9ffe9ffbffff7ffe00000000000000000000_962b74c4a4de710ef7e1fc5efa538b69", 
+                                "img_hash": "78756634603d82259285a1ba80c6822d", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "", 
+                                            "href": "/groupfitness?icmp=topnav-classes"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "", 
+                                        "domLevel": 11, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Graphik Web Regular\", sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 14, 
+                                        "height": 22, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Classes", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 53, 
+                                        "x": 794, 
+                                        "xPercent": 41.32893880208333, 
+                                        "y": 56, 
+                                        "yPercent": 0.7969557725445147
+                                    }, 
+                                    "location": {
+                                        "x": 794, 
+                                        "y": 56
+                                    }, 
+                                    "size": {
+                                        "height": 22, 
+                                        "width": 53
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Classes"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Classes", 
+                                "text_hash": "962b74c4a4de710ef7e1fc5efa538b69", 
+                                "transformed": true, 
+                                "width": 53, 
+                                "x": 794, 
+                                "y": 56
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mnu_classes"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00000_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 1 Step - 1cf01787-62e6-4415-8f10-28b68043e003/iter_00000_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [
+                            "mnu_classes"
+                        ], 
+                        "timing": 1.9419538974761963
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "jank": 0.0, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "screenshot_file_name": "iter_00000_step_00001_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 1 Step - 1cf01787-62e6-4415-8f10-28b68043e003/iter_00000_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "timing": 10.058924913406372
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mnu_classes"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [
+                    "all"
+                ], 
+                "temp_id": "94691afa-f08a-11eb-bfae-149d997d94ba", 
+                "title": "Test 1 Step - 1cf01787-62e6-4415-8f10-28b68043e003", 
+                "use_qlearning_matrix": true
+            }, 
+            {
+                "carbon_log_file_path": "run-14195749.log", 
+                "crawl_directory": "test_runs/20210804182533", 
+                "created": "2021-08-04 18:27:24", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 9, 
+                "curr_sub_step": 0, 
+                "custom_data": [
+                    {
+                        "id": "browser_name", 
+                        "label": "Browser", 
+                        "value": "Chrome"
+                    }
+                ], 
+                "custom_hidden_data": [
+                    {
+                        "id": "test_case_name", 
+                        "label": "Original Test Case Name", 
+                        "value": "Test 10 Steps"
+                    }
+                ], 
+                "description": "", 
+                "failures": {}, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:0sub_step:0  found:ttl_welcome_forward", 
+                    "step:1sub_step:0  found:mnu_clubs", 
+                    "step:2sub_step:0  found:img_boston", 
+                    "step:3sub_step:0  found:mnu_classes", 
+                    "step:5sub_step:0  found:icn_profile", 
+                    "step:6sub_step:0  found:inp_email_address", 
+                    "step:8sub_step:0  found:mnu_personal_training", 
+                    "step:9sub_step:0  found:icn_equinox_home"
+                ], 
+                "note": "", 
+                "original_title": "Test 10 Steps", 
+                "result": "pass", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "h1", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "h1", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "QHP0AKC08pmVT2yYBjdG/g==\n", 
+                                "height": 288, 
+                                "hier_level": 0, 
+                                "human_hash": "h1_X591_Y177_W724_H288", 
+                                "human_readable": "h1_591_177_724_288_h1_000000000000000000000eb00ff08ff0eff0eff0fe00fff07ff07ff07ff07fe0_48131e869ab74a29e3a50473216d9d57", 
+                                "img_hash": "b7cf5a249207cff213bb142e4eec333a", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "headline-element-desktop___3u_q8 Desktop-Large___2ZP9G d-xl-block d-lg-block d-md-none d-sm-none"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "h1", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "headline-element-desktop___3u_q8 Desktop-Large___2ZP9G d-xl-block d-lg-block d-md-none d-sm-none", 
+                                        "domLevel": 10, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Titling Gothic FB Compressed Medium\", sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 96, 
+                                        "height": 288, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "h1", 
+                                        "text": "WELCOME\nFORWARD", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 724, 
+                                        "x": 591, 
+                                        "xPercent": 30.755208333333332, 
+                                        "y": 177, 
+                                        "yPercent": 2.5497568443804033
+                                    }, 
+                                    "location": {
+                                        "x": 591, 
+                                        "y": 177
+                                    }, 
+                                    "size": {
+                                        "height": 288, 
+                                        "width": 724
+                                    }, 
+                                    "tag_name": "h1", 
+                                    "text": "WELCOME\nFORWARD"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "h1", 
+                                "text": "WELCOME\nFORWARD", 
+                                "text_hash": "48131e869ab74a29e3a50473216d9d57", 
+                                "transformed": true, 
+                                "width": 724, 
+                                "x": 591, 
+                                "y": 177
+                            }, 
+                            "gesture": "no_op", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "ttl_welcome_forward"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00000_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 10 Steps - 3bba8179-0aec-4f15-a6fd-6e04d2eaca92/iter_00001_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [
+                            "ttl_welcome_forward"
+                        ], 
+                        "timing": 1.8156700134277344
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "span", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "span", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "daVj5JdhHq3GASpzASzsGA==\n", 
+                                "height": 22, 
+                                "hier_level": 0, 
+                                "human_hash": "span_X735_Y56_W40_H22", 
+                                "human_readable": "span_735_56_40_22_span_00000000000034207c60deffc7ffc7eedeeb5fef77ff00000000000000000000_0cd40b062f1659290e2ca4a56aba6dfe", 
+                                "img_hash": "5d38716e1607d69fa780ccffcdec3bbb", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {}, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "span", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Graphik Web Regular\", sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 14, 
+                                        "height": 22, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "span", 
+                                        "text": "Clubs", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 40, 
+                                        "x": 735, 
+                                        "xPercent": 38.28369140625, 
+                                        "y": 56, 
+                                        "yPercent": 0.7997118155619596
+                                    }, 
+                                    "location": {
+                                        "x": 735, 
+                                        "y": 56
+                                    }, 
+                                    "size": {
+                                        "height": 22, 
+                                        "width": 40
+                                    }, 
+                                    "tag_name": "span", 
+                                    "text": "Clubs"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "span", 
+                                "text": "Clubs", 
+                                "text_hash": "0cd40b062f1659290e2ca4a56aba6dfe", 
+                                "transformed": true, 
+                                "width": 40, 
+                                "x": 735, 
+                                "y": 56
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mnu_clubs"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00001_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 10 Steps - 3bba8179-0aec-4f15-a6fd-6e04d2eaca92/iter_00001_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "test_labels": [
+                            "mnu_clubs"
+                        ], 
+                        "timing": 0.2136061191558838
+                    }, 
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "img", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "img", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "MEYKKZfJgCDaB2NTy3l/6w==\n", 
+                                "height": 286, 
+                                "hier_level": 0, 
+                                "human_hash": "img_X1211_Y485_W430_H286", 
+                                "human_readable": "img_1211_485_430_286_img_3fd07ff0ffe3ffc7ff87fe1ffc1cf07ce0ffc01f8003810280c0000000000000_9d4568c009d203ab10e33ea9953a0264", 
+                                "img_hash": "3ddd3488b1de1be3782f298d73087d4b", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "alt": "Boston", 
+                                            "data-component": "ReactContentfulImage", 
+                                            "src": "https://images.ctfassets.net/drib7o8rcbyf/5spAdpKmcVgxAg21ZdpxUt/8149ca598fa18bcdef10d6502a65000e/Equinox_ClubPage_OtherLocations_ChestnutHill_2300x1533-min.jpg?fl=progressive&fm=jpg&q=45&w=440", 
+                                            "title": "Boston"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "img", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "domLevel": 16, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Graphik Web Regular\", sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 14, 
+                                        "height": 286, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "img", 
+                                        "text": "", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 430, 
+                                        "x": 1211, 
+                                        "xPercent": 63.046875, 
+                                        "y": 485, 
+                                        "yPercent": 9.157854984894259
+                                    }, 
+                                    "location": {
+                                        "x": 1211, 
+                                        "y": 485
+                                    }, 
+                                    "size": {
+                                        "height": 286, 
+                                        "width": 430
+                                    }, 
+                                    "tag_name": "img", 
+                                    "text": ""
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "img", 
+                                "text": "", 
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+                                "transformed": true, 
+                                "width": 430, 
+                                "x": 1211, 
+                                "y": 485
+                            }, 
+                            "gesture": "no_op", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "img_boston"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00002_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 10 Steps - 3bba8179-0aec-4f15-a6fd-6e04d2eaca92/iter_00001_step_00002_screenshot.png", 
+                        "step_num": 2, 
+                        "test_labels": [
+                            "img_boston"
+                        ], 
+                        "timing": 1.883085012435913
+                    }, 
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "HxaUXFGjuXxXL4nxkGXFvw==\n", 
+                                "height": 22, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X794_Y56_W53_H22", 
+                                "human_readable": "a_794_56_53_22_a_0000000000007800f8009ffe9ffe9ffe9ffbffff7ffe00000000000000000000_962b74c4a4de710ef7e1fc5efa538b69", 
+                                "img_hash": "78756634603d82259285a1ba80c6822d", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "", 
+                                            "href": "/groupfitness?icmp=topnav-classes"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "", 
+                                        "domLevel": 11, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Graphik Web Regular\", sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 14, 
+                                        "height": 22, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Classes", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 53, 
+                                        "x": 794, 
+                                        "xPercent": 41.32893880208333, 
+                                        "y": 56, 
+                                        "yPercent": 1.0479607250755287
+                                    }, 
+                                    "location": {
+                                        "x": 794, 
+                                        "y": 56
+                                    }, 
+                                    "size": {
+                                        "height": 22, 
+                                        "width": 53
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Classes"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Classes", 
+                                "text_hash": "962b74c4a4de710ef7e1fc5efa538b69", 
+                                "transformed": true, 
+                                "width": 53, 
+                                "x": 794, 
+                                "y": 56
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mnu_classes"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00003_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 10 Steps - 3bba8179-0aec-4f15-a6fd-6e04d2eaca92/iter_00001_step_00003_screenshot.png", 
+                        "step_num": 3, 
+                        "test_labels": [
+                            "mnu_classes"
+                        ], 
+                        "timing": 0.5469350814819336
+                    }, 
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "no_op", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00001_step_00004_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 10 Steps - 3bba8179-0aec-4f15-a6fd-6e04d2eaca92/iter_00001_step_00004_screenshot.png", 
+                        "step_num": 4, 
+                        "test_labels": [], 
+                        "timing": 10.017529964447021
+                    }, 
+                    "00005": {
+                        "action_info": {
+                            "elem_class": "img", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "img", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "vyIZt0D8UvWGwIef8kfjkw==\n", 
+                                "height": 24, 
+                                "hier_level": 0, 
+                                "human_hash": "img_X1426_Y55_W24_H24", 
+                                "human_readable": "img_1426_55_24_24_img_07e00ff0381c300c6186c3c3c663c663c3c3c183c3c366663c3c381c1ff807e0_9d4568c009d203ab10e33ea9953a0264", 
+                                "img_hash": "4d25f14e9647219990af18f0b0468341", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "alt": "user-icon", 
+                                            "src": "//images.ctfassets.net/drib7o8rcbyf/gDwge6i41c7nZPZ8vx8wH/135e514dee58d0e22c91e22e6e05f7e6/user-icon.png"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "img", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Graphik Web Regular\", sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 14, 
+                                        "height": 24, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "img", 
+                                        "text": "", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 24, 
+                                        "x": 1426, 
+                                        "xPercent": 74.248046875, 
+                                        "y": 55, 
+                                        "yPercent": 0.5972963406665215
+                                    }, 
+                                    "location": {
+                                        "x": 1426, 
+                                        "y": 55
+                                    }, 
+                                    "size": {
+                                        "height": 24, 
+                                        "width": 24
+                                    }, 
+                                    "tag_name": "img", 
+                                    "text": ""
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "img", 
+                                "text": "", 
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+                                "transformed": true, 
+                                "width": 24, 
+                                "x": 1426, 
+                                "y": 55
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "icn_profile"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00005_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 10 Steps - 3bba8179-0aec-4f15-a6fd-6e04d2eaca92/iter_00001_step_00005_screenshot.png", 
+                        "step_num": 5, 
+                        "test_labels": [
+                            "icn_profile"
+                        ], 
+                        "timing": 10.11526107788086
+                    }, 
+                    "00006": {
+                        "action_info": {
+                            "elem_class": "input", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "input", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": true, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "S8OnYxIz9j5h6ZxpY/AjMA==\n", 
+                                "height": 50, 
+                                "hier_level": 0, 
+                                "human_hash": "input_X572_Y206_W777_H50", 
+                                "human_readable": "input_572_206_777_50_input_0000ffffffffffffffffffff3fff3fff3fff3fff7fffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264", 
+                                "img_hash": "0d20d6e1e6969f7171c057c5a9bec5ee", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "autocomplete": "email", 
+                                            "class": "user-inputs", 
+                                            "data-val": "true", 
+                                            "data-val-length": "Email Address is too long", 
+                                            "data-val-length-max": "100", 
+                                            "data-val-required": "Email Address is required", 
+                                            "name": "email", 
+                                            "placeholder": "Email", 
+                                            "required": "required", 
+                                            "type": "email"
+                                        }, 
+                                        "background-color": "rgb(255, 255, 255)", 
+                                        "class": "input", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "user-inputs", 
+                                        "domLevel": 9, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": true, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "-apple-system, system-ui, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"", 
+                                        "font-weight": "400", 
+                                        "fontSize": 16, 
+                                        "height": 50, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "email", 
+                                        "tagName": "input", 
+                                        "text": "", 
+                                        "type": "email", 
+                                        "value": "", 
+                                        "width": 777, 
+                                        "x": 572, 
+                                        "xPercent": 29.765625, 
+                                        "y": 206, 
+                                        "yPercent": 21.525600835945664
+                                    }, 
+                                    "location": {
+                                        "x": 572, 
+                                        "y": 206
+                                    }, 
+                                    "size": {
+                                        "height": 50, 
+                                        "width": 777
+                                    }, 
+                                    "tag_name": "input", 
+                                    "text": ""
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "input", 
+                                "text": "", 
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+                                "transformed": true, 
+                                "width": 777, 
+                                "x": 572, 
+                                "y": 206
+                            }, 
+                            "gesture": "text_entry_no_submit", 
+                            "text": "publicbot@appdiff.com"
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "inp_email_address"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00006_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 10 Steps - 3bba8179-0aec-4f15-a6fd-6e04d2eaca92/iter_00001_step_00006_screenshot.png", 
+                        "step_num": 6, 
+                        "test_labels": [
+                            "inp_email_address"
+                        ], 
+                        "timing": 0.16022109985351562
+                    }, 
+                    "00007": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "go_back", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00001_step_00007_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 10 Steps - 3bba8179-0aec-4f15-a6fd-6e04d2eaca92/iter_00001_step_00007_screenshot.png", 
+                        "step_num": 7, 
+                        "test_labels": [], 
+                        "timing": 0.14734792709350586
+                    }, 
+                    "00008": {
+                        "action_info": {
+                            "elem_class": "span", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "span", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "zKNz2zDiK88dcwv5GgjzuQ==\n", 
+                                "height": 22, 
+                                "hier_level": 0, 
+                                "human_hash": "span_X864_Y56_W117_H22", 
+                                "human_readable": "span_864_56_117_22_span_00000000000080c0c0c0ff7fff7fff7fff7fff7f7f7f00010001000000000000_7db6741b3b6a6cd5125db948d337eac7", 
+                                "img_hash": "2ed08e1367adb8b0b6853d8a53260226", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {}, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "span", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Graphik Web Regular\", sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 14, 
+                                        "height": 22, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "span", 
+                                        "text": "Personal Training", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 117, 
+                                        "x": 864, 
+                                        "xPercent": 45.013020833333336, 
+                                        "y": 56, 
+                                        "yPercent": 0.6044434763668046
+                                    }, 
+                                    "location": {
+                                        "x": 864, 
+                                        "y": 56
+                                    }, 
+                                    "size": {
+                                        "height": 22, 
+                                        "width": 117
+                                    }, 
+                                    "tag_name": "span", 
+                                    "text": "Personal Training"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "span", 
+                                "text": "Personal Training", 
+                                "text_hash": "7db6741b3b6a6cd5125db948d337eac7", 
+                                "transformed": true, 
+                                "width": 117, 
+                                "x": 864, 
+                                "y": 56
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mnu_personal_training"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00008_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 10 Steps - 3bba8179-0aec-4f15-a6fd-6e04d2eaca92/iter_00001_step_00008_screenshot.png", 
+                        "step_num": 8, 
+                        "test_labels": [
+                            "mnu_personal_training"
+                        ], 
+                        "timing": 10.139700174331665
+                    }, 
+                    "00009": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "q1wekALiw4xs1JQkDHoKSw==\n", 
+                                "height": 27, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X235_Y53_W131_H27", 
+                                "human_readable": "a_235_53_131_27_a_0000000000000000d7fadffafffaff7aff7edffed7fb540a1800000000000000_9d4568c009d203ab10e33ea9953a0264", 
+                                "img_hash": "f2a5b66be22b8c88959e29c48dc31703", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "brandLogo___2Go0n", 
+                                            "href": "/", 
+                                            "title": "Equinox"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "brandLogo___2Go0n", 
+                                        "domLevel": 8, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Graphik Web Regular\", sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 14, 
+                                        "height": 27, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 131, 
+                                        "x": 235, 
+                                        "xPercent": 12.213541666666666, 
+                                        "y": 53, 
+                                        "yPercent": 0.5798687089715536
+                                    }, 
+                                    "location": {
+                                        "x": 235, 
+                                        "y": 53
+                                    }, 
+                                    "size": {
+                                        "height": 27, 
+                                        "width": 131
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": ""
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "", 
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+                                "transformed": true, 
+                                "width": 131, 
+                                "x": 235, 
+                                "y": 53
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "icn_equinox_home"
+                        ], 
+                        "screenshot_file_name": "iter_00001_step_00009_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 10 Steps - 3bba8179-0aec-4f15-a6fd-6e04d2eaca92/iter_00001_step_00009_screenshot.png", 
+                        "step_num": 9, 
+                        "test_labels": [
+                            "icn_equinox_home"
+                        ], 
+                        "timing": 0.6302030086517334
+                    }, 
+                    "00010": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "jank": 0.0, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "screenshot_file_name": "iter_00001_step_00010_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 10 Steps - 3bba8179-0aec-4f15-a6fd-6e04d2eaca92/iter_00001_step_00010_screenshot.png", 
+                        "step_num": 10, 
+                        "timing": 0.5352790355682373
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "ttl_welcome_forward"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "verification", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mnu_clubs"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "img_boston"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "verification", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mnu_classes"
+                        ], 
+                        "run_only_if_label_present": true, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "classes at Equinox", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "run_only_if_label_present": false, 
+                        "type": "verification", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "icn_profile"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "publicbot@appdiff.com", 
+                        "grep_count": null, 
+                        "input": "text_entry_no_submit", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "inp_email_address"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "go_back", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mnu_personal_training"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "icn_equinox_home"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [
+                    "all"
+                ], 
+                "temp_id": "652315a6-f08d-11eb-998a-149d997d94ba", 
+                "title": "Test 10 Steps - 3bba8179-0aec-4f15-a6fd-6e04d2eaca92", 
+                "use_qlearning_matrix": true
+            }, 
+            {
+                "carbon_log_file_path": "run-14195749.log", 
+                "crawl_directory": "test_runs/20210804182533", 
+                "created": "2021-08-04 18:29:45", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 4, 
+                "curr_sub_step": 0, 
+                "custom_data": [
+                    {
+                        "id": "browser_name", 
+                        "label": "Browser", 
+                        "value": "Chrome"
+                    }
+                ], 
+                "custom_hidden_data": [
+                    {
+                        "id": "test_case_name", 
+                        "label": "Original Test Case Name", 
+                        "value": "Test 5 Steps"
+                    }
+                ], 
+                "description": "", 
+                "failures": {}, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:0sub_step:0  found:mnu_pilates", 
+                    "step:1sub_step:0  found:mnu_classes", 
+                    "step:2sub_step:0  found:mnu_personal_training", 
+                    "step:3sub_step:0  found:mnu_spa", 
+                    "step:4sub_step:0  found:icn_equinox_home"
+                ], 
+                "note": "", 
+                "original_title": "Test 5 Steps", 
+                "result": "pass", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "vhwJIUjxRiesl2GxneQDDQ==\n", 
+                                "height": 22, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X999_Y56_W46_H22", 
+                                "human_readable": "a_999_56_46_22_a_0000000000006c00fc40ffdefffffdfedffbdfffdffe00000000000000000000_82cf2c32b53cb95f04edd5ddcd4001fb", 
+                                "img_hash": "945eff365704009d215864bf5df118be", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "", 
+                                            "href": "/pilates?icmp=topnav-pilates"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "", 
+                                        "domLevel": 11, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Graphik Web Regular\", sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 14, 
+                                        "height": 22, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Pilates", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 46, 
+                                        "x": 999, 
+                                        "xPercent": 52.037760416666664, 
+                                        "y": 56, 
+                                        "yPercent": 0.7969557725445147
+                                    }, 
+                                    "location": {
+                                        "x": 999, 
+                                        "y": 56
+                                    }, 
+                                    "size": {
+                                        "height": 22, 
+                                        "width": 46
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Pilates"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Pilates", 
+                                "text_hash": "82cf2c32b53cb95f04edd5ddcd4001fb", 
+                                "transformed": true, 
+                                "width": 46, 
+                                "x": 999, 
+                                "y": 56
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mnu_pilates"
+                        ], 
+                        "screenshot_file_name": "iter_00002_step_00000_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 5 Steps - d2999022-2774-4e7b-b60d-9b0868e9451d/iter_00002_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [
+                            "mnu_pilates"
+                        ], 
+                        "timing": 68.64515590667725
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "HxaUXFGjuXxXL4nxkGXFvw==\n", 
+                                "height": 22, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X794_Y56_W53_H22", 
+                                "human_readable": "a_794_56_53_22_a_0000000000007800f8009ffe9ffe9ffe9ffbffff7ffe00000000000000000000_962b74c4a4de710ef7e1fc5efa538b69", 
+                                "img_hash": "78756634603d82259285a1ba80c6822d", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "", 
+                                            "href": "/groupfitness?icmp=topnav-classes"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "", 
+                                        "domLevel": 11, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Graphik Web Regular\", sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 14, 
+                                        "height": 22, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Classes", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 53, 
+                                        "x": 794, 
+                                        "xPercent": 41.32893880208333, 
+                                        "y": 56, 
+                                        "yPercent": 0.5262658827991655
+                                    }, 
+                                    "location": {
+                                        "x": 794, 
+                                        "y": 56
+                                    }, 
+                                    "size": {
+                                        "height": 22, 
+                                        "width": 53
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Classes"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Classes", 
+                                "text_hash": "962b74c4a4de710ef7e1fc5efa538b69", 
+                                "transformed": true, 
+                                "width": 53, 
+                                "x": 794, 
+                                "y": 56
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mnu_classes"
+                        ], 
+                        "screenshot_file_name": "iter_00002_step_00001_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 5 Steps - d2999022-2774-4e7b-b60d-9b0868e9451d/iter_00002_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "test_labels": [
+                            "mnu_classes"
+                        ], 
+                        "timing": 10.169558048248291
+                    }, 
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "span", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "span", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "zKNz2zDiK88dcwv5GgjzuQ==\n", 
+                                "height": 22, 
+                                "hier_level": 0, 
+                                "human_hash": "span_X864_Y56_W117_H22", 
+                                "human_readable": "span_864_56_117_22_span_00000000000080c0c0c0ff7fff7fff7fff7fff7f7f7f00010001000000000000_7db6741b3b6a6cd5125db948d337eac7", 
+                                "img_hash": "2ed08e1367adb8b0b6853d8a53260226", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {}, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "span", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Graphik Web Regular\", sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 14, 
+                                        "height": 22, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "span", 
+                                        "text": "Personal Training", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 117, 
+                                        "x": 864, 
+                                        "xPercent": 45.013020833333336, 
+                                        "y": 56, 
+                                        "yPercent": 0.6044434763668046
+                                    }, 
+                                    "location": {
+                                        "x": 864, 
+                                        "y": 56
+                                    }, 
+                                    "size": {
+                                        "height": 22, 
+                                        "width": 117
+                                    }, 
+                                    "tag_name": "span", 
+                                    "text": "Personal Training"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "span", 
+                                "text": "Personal Training", 
+                                "text_hash": "7db6741b3b6a6cd5125db948d337eac7", 
+                                "transformed": true, 
+                                "width": 117, 
+                                "x": 864, 
+                                "y": 56
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mnu_personal_training"
+                        ], 
+                        "screenshot_file_name": "iter_00002_step_00002_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 5 Steps - d2999022-2774-4e7b-b60d-9b0868e9451d/iter_00002_step_00002_screenshot.png", 
+                        "step_num": 2, 
+                        "test_labels": [
+                            "mnu_personal_training"
+                        ], 
+                        "timing": 10.185024976730347
+                    }, 
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "span", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "span", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "dG0qKJChJhYLSsc+zidqHQ==\n", 
+                                "height": 22, 
+                                "hier_level": 0, 
+                                "human_hash": "span_X1118_Y56_W28_H22", 
+                                "human_readable": "span_1118_56_28_22_span_0000000000003000780043dc737e3b6e4f7e4b767bde03000300000000000000_522f1c95c4c282b722b546a9433624a2", 
+                                "img_hash": "23ca6ed823cab666ae6486ac34a0a619", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {}, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "span", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Graphik Web Regular\", sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 14, 
+                                        "height": 22, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "span", 
+                                        "text": "Spa", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 28, 
+                                        "x": 1118, 
+                                        "xPercent": 58.225911458333336, 
+                                        "y": 56, 
+                                        "yPercent": 0.6072210065645514
+                                    }, 
+                                    "location": {
+                                        "x": 1118, 
+                                        "y": 56
+                                    }, 
+                                    "size": {
+                                        "height": 22, 
+                                        "width": 28
+                                    }, 
+                                    "tag_name": "span", 
+                                    "text": "Spa"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "span", 
+                                "text": "Spa", 
+                                "text_hash": "522f1c95c4c282b722b546a9433624a2", 
+                                "transformed": true, 
+                                "width": 28, 
+                                "x": 1118, 
+                                "y": 56
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mnu_spa"
+                        ], 
+                        "screenshot_file_name": "iter_00002_step_00003_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 5 Steps - d2999022-2774-4e7b-b60d-9b0868e9451d/iter_00002_step_00003_screenshot.png", 
+                        "step_num": 3, 
+                        "test_labels": [
+                            "mnu_spa"
+                        ], 
+                        "timing": 0.6387951374053955
+                    }, 
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "q1wekALiw4xs1JQkDHoKSw==\n", 
+                                "height": 27, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X235_Y53_W131_H27", 
+                                "human_readable": "a_235_53_131_27_a_0000000000000000d7fadffafffaff7aff7edffed7fb540a1800000000000000_9d4568c009d203ab10e33ea9953a0264", 
+                                "img_hash": "f2a5b66be22b8c88959e29c48dc31703", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "brandLogo___2Go0n", 
+                                            "href": "/", 
+                                            "title": "Equinox"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "brandLogo___2Go0n", 
+                                        "domLevel": 8, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Graphik Web Regular\", sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 14, 
+                                        "height": 27, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 131, 
+                                        "x": 235, 
+                                        "xPercent": 12.213541666666666, 
+                                        "y": 53, 
+                                        "yPercent": 0.5408163265306122
+                                    }, 
+                                    "location": {
+                                        "x": 235, 
+                                        "y": 53
+                                    }, 
+                                    "size": {
+                                        "height": 27, 
+                                        "width": 131
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": ""
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "", 
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+                                "transformed": true, 
+                                "width": 131, 
+                                "x": 235, 
+                                "y": 53
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "icn_equinox_home"
+                        ], 
+                        "screenshot_file_name": "iter_00002_step_00004_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 5 Steps - d2999022-2774-4e7b-b60d-9b0868e9451d/iter_00002_step_00004_screenshot.png", 
+                        "step_num": 4, 
+                        "test_labels": [
+                            "icn_equinox_home"
+                        ], 
+                        "timing": 0.7614040374755859
+                    }, 
+                    "00005": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "conditional_step_skipped": false, 
+                        "cpu": 0.0, 
+                        "jank": 0.0, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "screenshot_file_name": "iter_00002_step_00005_screenshot.png", 
+                        "screenshot_file_path": "tests/result_paths/Test 5 Steps - d2999022-2774-4e7b-b60d-9b0868e9451d/iter_00002_step_00005_screenshot.png", 
+                        "step_num": 5, 
+                        "timing": 0.4212639331817627
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mnu_pilates"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mnu_classes"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mnu_personal_training"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mnu_spa"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "icn_equinox_home"
+                        ], 
+                        "run_only_if_label_present": false, 
+                        "type": "action", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [
+                    "all"
+                ], 
+                "temp_id": "4c3a9c2b-f08c-11eb-93d0-149d997d94ba", 
+                "title": "Test 5 Steps - d2999022-2774-4e7b-b60d-9b0868e9451d", 
+                "use_qlearning_matrix": true
+            }
+        ]
+    }
+}

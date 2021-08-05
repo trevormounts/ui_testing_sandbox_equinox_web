@@ -1,0 +1,70 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "3HSuI671g7brVtpRIPD2Pw==\n", 
+    "height": 21, 
+    "hier_level": 0, 
+    "human_hash": "li_X796_Y837_W415_H21", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 21, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "Equinox West Georgia Street", 
+            "type": "", 
+            "value": 0, 
+            "width": 415, 
+            "x": 796, 
+            "xPercent": 41.432291666666664, 
+            "y": 837, 
+            "yPercent": 15.804380664652568
+        }, 
+        "location": {
+            "x": 796, 
+            "y": 837
+        }, 
+        "size": {
+            "height": 21, 
+            "width": 415
+        }, 
+        "tag_name": "li", 
+        "text": "Equinox West Georgia Street"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "Equinox West Georgia Street", 
+    "transformed": true, 
+    "width": 415, 
+    "x": 796, 
+    "y": 837
+}

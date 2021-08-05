@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "eaXi+VIzdDjjX/T3ZfAfWw==\n", 
+    "height": 208, 
+    "hier_level": 0, 
+    "human_hash": "img_X1095_Y250_W311_H208", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "banner-image", 
+                "class": "promotion-banner-img___wWxJj", 
+                "src": "//images.ctfassets.net/drib7o8rcbyf/2BRVb9DlQ51gHV6Gp4v0wJ/9f1bff19b57f10858f26f5bb2381216c/WEB_612x408.jpg"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "promotion-banner-img___wWxJj", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 208, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 311, 
+            "x": 1095, 
+            "xPercent": 57.032877604166664, 
+            "y": 250, 
+            "yPercent": 25.309013691683568
+        }, 
+        "location": {
+            "x": 1095, 
+            "y": 250
+        }, 
+        "size": {
+            "height": 208, 
+            "width": 311
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 311, 
+    "x": 1095, 
+    "y": 250
+}

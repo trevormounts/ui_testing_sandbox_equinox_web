@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "tp7wDeMoip3WYl5MuBmz/w==\n", 
+    "height": 41, 
+    "hier_level": 0, 
+    "human_hash": "div_X572_Y453_W777_H41", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "divider"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(139, 139, 139)", 
+            "cssClass": "divider", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "-apple-system, system-ui, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 41, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "or", 
+            "type": "", 
+            "value": "", 
+            "width": 777, 
+            "x": 572, 
+            "xPercent": 29.765625, 
+            "y": 453, 
+            "yPercent": 47.33542319749217
+        }, 
+        "location": {
+            "x": 572, 
+            "y": 453
+        }, 
+        "size": {
+            "height": 41, 
+            "width": 777
+        }, 
+        "tag_name": "div", 
+        "text": "or"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "or", 
+    "transformed": true, 
+    "width": 777, 
+    "x": 572, 
+    "y": 453
+}

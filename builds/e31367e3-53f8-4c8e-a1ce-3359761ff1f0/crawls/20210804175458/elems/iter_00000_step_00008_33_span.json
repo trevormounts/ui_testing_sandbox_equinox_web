@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "qmv2+LEoXNqfDp+9MhaCzw==\n", 
+    "height": 1, 
+    "hier_level": 0, 
+    "human_hash": "span_X1837_Y934_W1_H1", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "assistiveText"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "assistiveText", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 14, 
+            "height": 1, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Live chat:", 
+            "type": "", 
+            "value": "", 
+            "width": 1, 
+            "x": 1837, 
+            "xPercent": 95.69010416666667, 
+            "y": 934, 
+            "yPercent": 10.213347921225383
+        }, 
+        "location": {
+            "x": 1837, 
+            "y": 934
+        }, 
+        "size": {
+            "height": 1, 
+            "width": 1
+        }, 
+        "tag_name": "span", 
+        "text": "Live chat:"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Live chat:", 
+    "transformed": true, 
+    "width": 1, 
+    "x": 1837, 
+    "y": 934
+}

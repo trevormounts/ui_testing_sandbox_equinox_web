@@ -1,0 +1,74 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "96eSYU+2sxHyoPgynPVFDg==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "a_X854_Y520_W212_H48", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "social-login-apple text-center", 
+                "href": "/auth/fed?idp=apple&state=NKmZR950-ZsVykSaUSJMVCfYcQKOMkLqNXc9B1GJs5DdccFITylMREjAHs1j_DBqGwenqe2cU5o7gYAbn-mXUfnk5-CAlICj3pZH9DJRvsPXc-ym1QRDQpId6um5k2odxWcK_npRqceo-Fd2zxcKkyWGpRz-380Ry289xxdijpSrhYxtjOxTPucLTNbQyKZ7qBDFrpsrrbt0hN3A9dFMUcke0VAukYGb5NQ80Ul8wUrNYI95peX2mijomJ4vUE_GeBUWDjd2y856ml_1b_Mtw4q-eu_Cw003aMnbNFboIntlUNrOcyqdPywSKF-ijYOYeRpsEHL5qs9OmHVgMamp8aP9HFGv4Cz6ga7ca-LsO85SpTHHEHGSaEjlqeasmxcKVDqwMSx14QNdae9lgUs16PiHpJyHr6UFeaBCaGWSL0YF_enTBomprZyM_K5uv6JQnATBmkCoJkwfPRW0t1u0dlI6ZqI1KUkSPpLcx1g9S1uY2F5FrXI3vKQXMp56dLY7NHfoNNDOBzse0YeTwVEogIkod1-KSz9s2hY9Exb-hmw"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(0, 123, 255)", 
+            "cssClass": "social-login-apple text-center", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "-apple-system, system-ui, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 212, 
+            "x": 854, 
+            "xPercent": 44.479166666666664, 
+            "y": 520, 
+            "yPercent": 54.33646812957158
+        }, 
+        "location": {
+            "x": 854, 
+            "y": 520
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 212
+        }, 
+        "tag_name": "a", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "", 
+    "transformed": true, 
+    "width": 212, 
+    "x": 854, 
+    "y": 520
+}

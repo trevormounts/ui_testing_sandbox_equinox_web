@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "SLrXsyI7H9TJE8Tifw0/nw==\n", 
+    "height": 39, 
+    "hier_level": 0, 
+    "human_hash": "div_X0_Y94_W1905_H39", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "notificationBannerInner___3jb2r navigation-height ", 
+                "style": "background-color:#FFFFFF"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(0, 0, 0)", 
+            "cssClass": "notificationBannerInner___3jb2r navigation-height ", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Graphik Web Regular\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 18, 
+            "height": 39, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Join Equinox today for your exclusive August\u00a0offer.\u00a0CLAIM OFFER", 
+            "type": "", 
+            "value": "", 
+            "width": 1905, 
+            "x": 0, 
+            "xPercent": 0, 
+            "y": 94, 
+            "yPercent": 1.3497989661114302
+        }, 
+        "location": {
+            "x": 0, 
+            "y": 94
+        }, 
+        "size": {
+            "height": 39, 
+            "width": 1905
+        }, 
+        "tag_name": "div", 
+        "text": "Join Equinox today for your exclusive August\u00a0offer.\u00a0CLAIM OFFER"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Join Equinox today for your exclusive August\u00a0offer.\u00a0CLAIM OFFER", 
+    "transformed": true, 
+    "width": 1905, 
+    "x": 0, 
+    "y": 94
+}

@@ -1,0 +1,36 @@
+{
+    "Test Swipe Up": {
+        "description": "", 
+        "is_deactivated": false, 
+        "original_title": "Test Swipe Up", 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "swipe_up", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "swipe_down", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [], 
+        "temp_id": "6df984b5-f57f-11eb-a002-1e00da3ad77a", 
+        "title": "Test Swipe Up"
+    }
+}

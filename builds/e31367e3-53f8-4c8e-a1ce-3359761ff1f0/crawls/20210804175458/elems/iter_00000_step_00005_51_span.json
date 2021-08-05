@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "w4a5stFw6b4M7Z9lxDxbfQ==\n", 
+    "height": 211, 
+    "hier_level": 0, 
+    "human_hash": "span_X761_Y263_W383_H211", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "formatted-text___SkD_K"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "formatted-text___SkD_K", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"Titling Gothic FB Compressed Medium\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 96, 
+            "height": 211, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "MORE THAN\nA WORKOUT", 
+            "type": "", 
+            "value": "", 
+            "width": 383, 
+            "x": 761, 
+            "xPercent": 39.6240234375, 
+            "y": 263, 
+            "yPercent": 2.863789207144413
+        }, 
+        "location": {
+            "x": 761, 
+            "y": 263
+        }, 
+        "size": {
+            "height": 211, 
+            "width": 383
+        }, 
+        "tag_name": "span", 
+        "text": "MORE THAN\nA WORKOUT"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "MORE THAN\nA WORKOUT", 
+    "transformed": true, 
+    "width": 383, 
+    "x": 761, 
+    "y": 263
+}

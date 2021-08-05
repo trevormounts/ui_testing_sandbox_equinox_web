@@ -1,0 +1,68 @@
+{
+    "elems": {
+        "iter_00000_step_00007_12_input.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00007_14_input.png": [
+            "inp_email_address"
+        ], 
+        "iter_00000_step_00008_51_a.png": [
+            "lnk_claim_offer"
+        ], 
+        "iter_00000_step_00009_12_a.png": [
+            "mnu_pilates"
+        ], 
+        "iter_00000_step_00009_13_a.png": [
+            "mnu_classes"
+        ], 
+        "iter_00000_step_00009_18_img.png": [
+            "icn_equinox_home"
+        ], 
+        "iter_00000_step_00009_28_a.png": [
+            "mnu_hotels"
+        ], 
+        "iter_00000_step_00009_30_a.png": [
+            "mnu_join_online"
+        ], 
+        "iter_00000_step_00009_32_a.png": [
+            "mnu_equinox_alumni"
+        ], 
+        "iter_00000_step_00009_38_a.png": [
+            "mnu_shop"
+        ], 
+        "iter_00000_step_00009_3_a.png": [
+            "icn_equinox_home"
+        ], 
+        "iter_00000_step_00009_46_a.png": [
+            "mnu_locations"
+        ], 
+        "iter_00000_step_00009_47_a.png": [
+            "mnu_clubs"
+        ], 
+        "iter_00000_step_00009_4_a.png": [
+            "icn_user_profile"
+        ], 
+        "iter_00000_step_00009_50_a.png": [
+            "mnu_personal_training"
+        ], 
+        "iter_00000_step_00009_52_a.png": [
+            "mnu_spa"
+        ], 
+        "iter_00000_step_00009_56_a.png": [
+            "mnu_claim_offer"
+        ], 
+        "iter_00000_step_00009_58_img.png": [
+            "img_boston"
+        ], 
+        "iter_00000_step_00009_62_a.png": [
+            "mnu_studios"
+        ], 
+        "iter_00000_step_00009_63_img.png": [
+            "icn_profile"
+        ], 
+        "iter_00000_step_00009_9_a.png": [
+            "mnu_member_benefits"
+        ]
+    }, 
+    "screens": {}
+}
